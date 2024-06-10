@@ -8,7 +8,7 @@
 
 **ACTRIS Aerosol remote sensing data centre unit (ARES)**
 
-[Data access and file format documentation](https://www.earlinet.org/index.php?eID=tx_securedownloads&p=125&u=0&g=0&t=1712151337&hash=0241e9c3849418a9ddcfc7e8c52df87e5f58361a&file=fileadmin/user_upload/EARLINET_Database/EARLINET_Data_File_Structure_v2-0_11112019_01.pdf)
+[Data access and file format documentation](https://docs.scc.imaa.cnr.it/en/latest/)
 
 **ACTRIS trace gases remote sensing data centre unit (GRES)**
 
