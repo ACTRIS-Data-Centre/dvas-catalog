@@ -1,6 +1,6 @@
 **ACTRIS Cloud remote sensing data centre unit (CLU)**
 
-[Data access and file format documentation](https://actris-cloudnet.github.io/cloudnetpy/fileformat.html)
+[Data access and file format documentation](https://cloudnet.fmi.fi/products/)
 
 **ACTRIS In Situ data centre unit (In-Situ)**
 
