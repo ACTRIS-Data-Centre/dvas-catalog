@@ -101,9 +101,9 @@
     },
     {
         "id": 11,
-        "title": "Cloudnetpy",
+        "title": "Cloud remote sensing data processing",
         "url": "https://github.com/actris-cloudnet/cloudnetpy",
-        "description": "Cloudnetpy is a Python package for processing Cloudnet data.",
+        "description": "Cloudnetpy is a Python package for processing Cloud Remote Sensing data.",
         "keywords": ["CLU", "Python", "Cloudnet", "Data", "Processing", "Cloudnetpy", "Cloudnet data"],   
         "img_url": "static/img/cloudnetpy.png",
         "access_rights": "Open",
@@ -111,10 +111,10 @@
     },
     {
         "id": 12,
-        "title": "Cloudnet submit",
+        "title": "Cloud remote sensing data submission",
         "url": "https://github.com/actris-cloudnet/cloudnet-submit",
-        "description": "Cloudnet-submit is a tool for submitting data to the Cloudnet data portal.",
-        "keywords": ["CLU", "submit", "Cloudnet", "Data", "Cloudnet data"],   
+        "description": "Cloudnet-submit is a tool for submitting data to the ACTRIS Cloudnet data portal.",
+        "keywords": ["CLU", "submit", "Cloudnet", "Data", "Cloudnet data", "Cloudnet-submit"],   
         "img_url": "static/img/cloudnet-submit.png",
         "access_rights": "Open",
         "class": "Tool"
@@ -141,7 +141,7 @@
     },
     {
         "id": 15,
-        "title": "EBAS Data Submission Tool",
+        "title": "In-situ Data Submission Tool",
         "url": "https://ebas-submit-tool.nilu.no/",
         "description": "A web based tool to check file formats for data submission to the EBAS database, which is the repository for ACTRIS In-Situ data. The tool checks the data files for compliance with the EBAS data format and provides feedback. ",
         "keywords": ["EBAS", "Data", "Submission", "Tool", "In-situ", "ACTRIS", "NILU"],   
@@ -151,7 +151,7 @@
     },
     {
         "id": 16,
-        "title": "EBAS Data Submission Manual",
+        "title": "In-Situ Data Submission Manual",
         "url": "https://ebas-submit.nilu.no/",
         "description": "A manual for data submission to the EBAS database, which is the repository for ACTRIS In-Situ data. The manual provides guidance on how to prepare and submit data files to the EBAS database. ",
         "keywords": ["EBAS", "Data", "Submission", "Manual", "In-situ", "ACTRIS", "NILU"],   
@@ -181,9 +181,9 @@
     }, 
     {
         "id": 19,
-        "title": "EARLINET Database Processor",
+        "title": "Aerosol Remote Sensing Database Processor",
         "url": "https://upload.earlinet.org/",
-        "description": "The EARLINET Database Processor is a tool for uploading files, editing categories and download category-files to the EARLINET database.",
+        "description": "The ACTRIS EARLINET Database Processor is a tool for uploading files, editing categories and download category-files to the EARLINET database, which is the repository for ACTRIS Aerosol Remote Sensing Data unit.",
         "keywords": ["EARLINET", "Data Upload", "Lidar", "Aerosol", "Data", "Submission", "ARES"],
         "img_url": "static/img/earlinet-database-processor.png",
         "access_rights": "Restricted",
@@ -191,7 +191,7 @@
     }, 
     {
         "id": 20,
-        "title": "EARLINET Quicklook Interface",
+        "title": "Aerosol Remote Sensing Quicklook Interface",
         "url": "https://quicklooks.earlinet.org/",
         "description": "The EARLINET Quicklook Interface provides a user-friendly interface for quick visualization and analysis of near real-time lidar data from the European Aerosol Research Lidar Network (EARLINET). It allows researchers to easily access and explore lidar measurements, aiding in the interpretation and understanding of atmospheric aerosols.",
         "keywords": ["EARLINET", "Quicklook Interface", "Lidar", "Aerosol", "Data", "Visualization", "Analysis", "ARES", "NRT"],
@@ -201,9 +201,9 @@
     },
     {
         "id": 21,
-        "title": "EARLINET Single Calculus Chain (SCC)",
+        "title": "Aerosol Remote Sensing Single Calculus Chain (SCC)",
         "url": "https://www.earlinet.org/index.php?id=281",
-        "description": "The EARLINET Single Calculus Chain (SCC) is a centralized tool for the automatic analysis of aerosol lidar measurements. The development of this tool started in the framework of EARLINET-ASOS (European Aerosol Research Lidar Network – Advanced Sustainable Observation System), it was extended and still on going under the ACTRIS (Aerosol, Clouds and Trace gases Research InfraStructure Network) umbrella. The SCC is a major component of the ACTRIS Aeorosol Remote Sensing Node (ARES) responsible for the curation and the processing of the ACTRIS aerosol remote sensing data.",
+        "description": "The ACTRIS EARLINET Single Calculus Chain (SCC) is a centralized tool for the automatic analysis of aerosol lidar measurements. The development of this tool started in the framework of EARLINET-ASOS (European Aerosol Research Lidar Network – Advanced Sustainable Observation System), it was extended and still on going under the ACTRIS (Aerosol, Clouds and Trace gases Research InfraStructure Network) umbrella. The SCC is a major component of the ACTRIS Aeorosol Remote Sensing Node (ARES) responsible for the curation and the processing of the ACTRIS aerosol remote sensing data.",
         "keywords": ["ARES","EARLINET", "SCC", "Lidar", "Aerosol", "Data", "Processing", "Quality control", "Optical properties"],
         "img_url": "static/img/earlinet-scc.png",
         "access_rights": "Open",
