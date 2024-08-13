@@ -208,6 +208,126 @@
         "img_url": "static/img/earlinet-scc.png",
         "access_rights": "Open",
         "class": "Tool"
+    },
+    {
+        "id": 22,
+        "title": "ReObs",
+        "url": "https://reobs.aeris-data.fr/",
+        "description": "The objective of the ReOBS project is to create a multi-parameter dataset with a high level of quality control in a format that can be easily used by the scientific community for the study and understanding of climate variables at the regional scale. ReOBS aims to synthesize, analyze and homogenize all the observations of an ACTRIS site in a single NetCDF file with a time resolution of one hour (Chiriaco et al., 2018). The ReOBS file follows the CF and GCMD conventions for metadata as well as FAIR principles. ",
+        "keywords": ["Climate variables", "Observations homogenization", "Dataset", "ACTRIS-FR", "AERIS/ESPRI"],
+        "img_url": "",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 23,
+        "title": "GEISA",
+        "url": "https://geisa.aeris-data.fr/",
+        "description": "the ARA (Atmospheric Radiation Analysis) group at LMD (Laboratoire de Météorologie Dynamique, France) has developed GEISA (Gestion et Etude des Informations Spectroscopiques Atmosphériques: Management and Study of Atmospheric Spectroscopic Information), a computer accessible database system [Chédin et al. (1982), Husson et al. (1992), Jacquinet-Husson et al. (1999, 2005, 2008, 2011, 2016), Armante et al (2016), designed to facilitate accurate and fast forward, calculations of atmospheric radiative transfer using a line-by-line and (atmospheric) layer-by-layer approach. This effort has proven to be beneficial to the atmospheric scientific community participating in direct and inverse radiative transfer studies. Three databases are available : GEISA-2020, GEISA-2015 and GEISA-2011 including line transition parameters, Absorption cross-sections and atmospheric aerosols sub-databases.",
+        "keywords": ["GEISA", "Spectroscopic database",  "Line transition parameters", "Absorption cross sections", "Atmospheric aerosols", "LBRTM", "AERIS/ESPRI"],
+        "img_url": "",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 24,
+        "title": "PyACPIM Cloud Model",
+        "url": "https://data.eurochamp.org/modelling-tools/#pyacpim",
+        "description": "PyACPIM is a cloud parcel model including detailed, bineed cloud microphysics.It has been specifically designed to aid the understanding of experiments conducted in cloud chambers. The model comes with a graphical user interface which allows easy of use of the model.",
+        "keywords": ["Cloud microphysics", "Cloud chambers", "ASC unit", "AERIS/ESPRI"],
+        "img_url": "",
+        "access_rights": "Open",
+        "class": "Tool"
+    },
+    {
+        "id": 25,
+        "title": "UManSysProp",
+        "url": "https://data.eurochamp.org/modelling-tools/#uman_sysprop",
+        "description": "UManSysProp is an online facility for calculating the properties of individual organic molecules, ensemble mixtures and aerosol particles. It is built using open source chemical informatics and is accessible through the link http://umansysprop.seaes.manchester.ac.uk/. ",
+        "keywords": ["Properties", "organic molecules", "Aerosol particles", "Chemical informatics", "ASC unit", "AERIS/ESPRI"],
+        "img_url": "",
+        "access_rights": "Open",
+        "class": "Tool"
+    },
+    {
+        "id": 26,
+        "title": "PyCHAM",
+        "url": "https://data.eurochamp.org/modelling-tools/#pycham",
+        "description": "PyCHAM is an open-access computer code (written in Python) for simulating aerosol chambers by coupling chemistry and aerosol microphysics. ",
+        "keywords": ["Simulation", "Aerosol chambers", "Aerosol microphysics", "Chemistry", "ASC unit", "AERIS/ESPRI"],
+        "img_url": "",
+        "access_rights": "Open",
+        "class": "Tool"
+    },
+    {
+        "id": 27,
+        "title": "AtChem Online",
+        "url": "https://data.eurochamp.org/modelling-tools/#atchem",
+        "description": "AtChem Online is an open source, free to use on-line zero-dimensional box modelling toolkit, developed for use by laboratory, field and chamber scientists. Any general set of chemical reactions can be simulated, in particular subsets of the Master Chemical Mechanism (MCM (mcm.york.ac.uk)).",
+        "keywords": ["Chemical reactions", "Simulation", "Modelling", "MCM", "ASC unit", "AERIS/ESPRI"],
+        "img_url": "",
+        "access_rights": "Open",
+        "class": "Tool"
+    },
+    {
+        "id": 28,
+        "title": "AtChem2 ",
+        "url": "https://data.eurochamp.org/modelling-tools/#atchem_2",
+        "description": "AtChem2 is an updated, standalone off-line version of Atchem Online. It allows the user to run longer, more complex simulations containing the full MCM, such as those needed for modelling of intensive field campaigns, as well as to perform batch model runs for sensitivity studies. AtChem2 is installed, set up and configured using semi-automated scripts and simple text configuration files, making it easy to use even for non-experienced users.",
+        "keywords": ["Chemical reactions", "Complex simulations", "Modelling", "MCM", "ASC unit", "AERIS/ESPRI"],
+        "img_url": "",
+        "access_rights": "Open",
+        "class": "Tool"
+    },
+    {
+        "id": 29,
+        "title": "GECKO-A Online",
+        "url": "https://data.eurochamp.org/modelling-tools/#gecko_a",
+        "description": "GECKO-A Online is a web facility providing rate constants and thermodynamic properties (Henry’s law coefficient and saturation vapor pressure) for organic compounds based on Structure Activity Relationships. Gas phase oxidation mechanisms up to the first generation products can be downloaded. The tool generates mechanisms and properties for most acyclic and monocyclic hydrocarbons and related oxidation products (alcohols, carbonyls, nitrates, hydroperoxides, alkoxy and peroxy radicals, ...). ",
+        "keywords": ["Web facility", "Rate constants properties", "Thermodynamic properties",  "Henry’s law coefficient", "Gas phase oxidation", "ASC unit", "AERIS/ESPRI"],
+        "img_url": "",
+        "access_rights": "Open",
+        "class": "Service"
+    },
+    {
+        "id": 30,
+        "title": "COSIMA",
+        "url": "https://data.eurochamp.org/modelling-tools/#cosima",
+        "description": "COSIMA is the web version of aerosol behaviour code COSIMA describing the structure and dynamics of irregularly formed or compact particles based on statistical mechanics and fractal scaling laws.",
+        "keywords": ["Web Aerosol code", "Statistical mechanisms", "compact particles", "ASC unit", "AERIS/ESPRI"],
+        "img_url": "",
+        "access_rights": "Open",
+        "class": "Service"
+    },
+    {
+        "id": 31,
+        "title": "AERIS/ICARE geostationary data viewer",
+        "url": "https://dataviz.icare.univ-lille.fr/geoview",
+        "description": "This web application provides a visualization web interface dedicated to geostationary satellites. It supports multiple products (RGB composites for ash, dust and natural false color, reflectances and brightness temperatures per channel and SAF Now Casting). Also multiple satellites are available, so the whole georing is covered",
+        "keywords": ["ICARE", "AERIS"],
+        "img_url": "https://dataviz.icare.univ-lille.fr/home/assets/geoview_snapshot.png",
+        "access_rights": "Open",
+        "class": "Service"
+    },
+    {
+        "id": 32,
+        "title": "VolcPlume portal",
+        "url": "https://volcplume.aeris-data.fr/",
+        "description": "The VolcPlume Portal (https://volcplume.aeris-data.fr) is dedicated to the near-real time and retrospective tracking and analysis of the physico-chemical properties of volcanic plumes in the atmosphere, from the source to regional/global scales. The portal allows for jointly analysing a broad panel of satellite and ground-based active and passive remote sensing observations of both volcanic gas and particles, as well as in-situ ground air quality monitoring measurements to detect and isolate a volcanic plume signature down to the ground. Benefiting from developments favouring interactivity and flexibility, this portal thus aims to facilitate an in-depth assessment of the multi-scale atmospheric impacts of volcanic plumes that can include, depending on the type and magnitude of the eruption, modifications of the atmospheric chemistry, degradation of air quality, aviation hazards, and climate impacts. ",
+        "keywords": ["ICARE", "AERIS","VOLCPLUME","VOLCANO"],
+        "img_url": "https://www.icare.univ-lille.fr/wp-content-icare/uploads/sites/27/2022/07/volcplume-portal.png",
+        "access_rights": "Open",
+        "class": "Service"
+    },
+    {
+        "id": 33,
+        "title": "ACSM Network visualization tool",
+        "url": "https://dataviz.icare.univ-lille.fr/acsm_dataviz",
+        "description": "This web application provides a visualization web interface to explore the data acquired by ACSM at the european and for some stations also aethalometers and source apportionment retrievals.",
+        "keywords": ["ICARE", "AERIS", "ACSM"],
+        "img_url": "https://dataviz.icare.univ-lille.fr/home/assets/acmcc_snapshot.png",
+        "access_rights": "Open",
+        "class": "Service"
     }
 ]
 
