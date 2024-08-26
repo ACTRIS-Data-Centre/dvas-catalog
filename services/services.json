@@ -328,8 +328,37 @@
         "img_url": "https://dataviz.icare.univ-lille.fr/home/assets/acmcc_snapshot.png",
         "access_rights": "Open",
         "class": "Service"
+    },
+    {
+        "id": 34,
+        "title": " Four-dimensional distribution of the 2010 Eyjafjallajökull volcanic cloud over Europe.",
+        "url": " https://doi.org/10.5194/acp-13-4429-2013 ",
+        "description": " The four-dimensional (4-D) distribution of the Eyjafjallajökull volcanic cloud in the troposphere over Europe as observed by ACTRIS/EARLINET during the entire volcanic event (15 April–26 May 2010) was investigated thanks to the optical properties directly measured (backscatter, extinction, and particle linear depolarization ratio) and stored in the ACTRIS ARES database. A specific relational database providing the volcanic mask over Europe, realized ad hoc for this specific event, has been developed and made available. ",
+        "keywords": ["volcanic eruption", "4d distribution", "Aerosol", "Ash", "Lidar", "Profiling", "ARES" ],   
+        "img_url": "https://earlinet.org/index.php?eID=tx_cms_showpic&file=962&md5=47b32b6a089a2cde75a0e7bfea0f38a79017ca6f&parameters%5B0%5D=YTo1OntzOjU6IndpZHRoIjtzOjM6IjgwMCI7czo2OiJoZWlnaHQiO3M6NDoiNjAw&parameters%5B1%5D=bSI7czo3OiJib2R5VGFnIjtzOjQxOiI8Ym9keSBzdHlsZT0ibWFyZ2luOjA7IGJh&parameters%5B2%5D=Y2tncm91bmQ6I2ZmZjsiPiI7czo0OiJ3cmFwIjtzOjM3OiI8YSBocmVmPSJqYXZh&parameters%5B3%5D=c2NyaXB0OmNsb3NlKCk7Ij4gfCA8L2E%2BIjtzOjQ6ImNyb3AiO3M6OTg6InsiZGVm&parameters%5B4%5D=YXVsdCI6eyJjcm9wQXJlYSI6eyJ4IjowLCJ5IjowLCJ3aWR0aCI6MSwiaGVpZ2h0&parameters%5B5%5D=IjoxfSwic2VsZWN0ZWRSYXRpbyI6Ik5hTiIsImZvY3VzQXJlYSI6bnVsbH19Ijt9",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 35,
+        "title": " ACTRIS/EARLINET Level 3 2000-2019 climatological dataset",
+        "url": " https://doi.org/10.57837/cnr-imaa/ares/actris-earlinet/level3/climatological/2000_2019/all",
+        "description": " The Level 3 standard products contain climatological datasets obtained as aggregated products from the fully quality controlled (QC) aerosol optical products (i.e. Level 2 products). In order to avoid biases due to measurements made on purpose specifically for capturing special events, it is considered only subset of data corresponding to regular schedule and measurements done for satellite validation purposes.",
+        "keywords": ["climatology", "4d distribution",  "Aerosol", "Lidar", "Profiling", "ARES"],   
+        "img_url": "https://earlinet.org/index.php?eID=tx_securedownloads&p=252&u=0&g=0&t=1724773339&hash=494f9e28637200fe71fb1e1f7d03e66893078da0&file=fileadmin/user_upload/Eyja_IB_AMT2013.png",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+     "id": 36,
+        "title": "ACTRIS ARES metadata catalog REST API",
+        "url": " https://data.earlinet.org/api/services/restapi?_wadl",
+        "description": "Machine-to-machine access to ACTRIS ARES data and products through the REST API. ",
+        "keywords": ["ACTRIS ARES", "Metadata", "Rest API", "Access", "ARES"],   
+        "img_url": " ",
+        "access_rights": "Open",
+        "class": "Tool"
     }
 ]
-
 
 
