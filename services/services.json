@@ -23,7 +23,7 @@
         "id": 3,
         "title": "ACTRIS metadata catalog REST API",
         "url": "https://prod-actris-md.nilu.no/index.html",
-        "description": "Machine-to-machine access to ACTRIS data and products through the REST API. The API is undergoing upgrades and might currently be a bit slow.",
+        "description": "Machine-to-machine access to ACTRIS data and products through the REST API. The API is currently undergoing upgrades. You might experience some timeouts.",
         "keywords": ["ACTRIS", "Metadata", "Rest API", "Access"],   
         "img_url": "static/img/actris-rest-api.png",
         "access_rights": "Open",
