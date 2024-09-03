@@ -61,26 +61,6 @@
     },
     {
         "id": 7,
-        "title": "Time series of aerosol light-absorption coefficients from Aethalometers at six Arctic stations between 2012 and 2014.",
-        "url": "https://doi.org/10.21336/gen.1",
-        "description": "By John Backman*, Lauren Schmeisser, Aki Virkkula, John A. Ogren, Eija Asmi, Sandra Starkweather, Sangeeta Sharma, Konstantinos Eleftheriadis, Stergios Vratolis, Taneil Uttal, Peter Tunved, Anne Jefferson, Michael Bergin, Alexander Makshtas, Peter Tunved, and Markus Fiebig (2017) https://doi.org/10.21336/gen.1",
-        "keywords": ["Time series", "aec", "aethalometer", "arctic", "light-absorption", "aerosol", "absorption"],   
-        "img_url": "https://actris.nilu.no/Content/Documents/Images/time_series_adaptive_var.png",
-        "access_rights": "Open",
-        "class": "Product"
-    },
-    {
-        "id": 8,
-        "title": "ACTRIS data during the COVID-19 pandemic spring 2020.",
-        "url": "https://doi.org/10.21336/gen.682q-8163",
-        "description": "This data collection contains measurements of aerosol, cloud and trace gases properties across Europe measured during the Covid-19 lockdown period 1 January 2020 - 31 May 2020. Data are compiled and made available by the ACTRIS Data Centre units, which include In Situ data centre unit (In-Situ), Aerosol remote sensing data centre unit (ARES), Cloud remote sensing data centre unit (CLU) and Data Discovery, Virtual Access and Services unit (DVAS). ",
-        "keywords": ["COVIS-19", "Pandemic", "Data", "Aerosol", "Cloud", "Trace gases", "Europe"],   
-        "img_url": "https://actris.nilu.no/Content/Documents/Images/map_Europe_3DCs_sites_pos_withoutLegend.png",
-        "access_rights": "Open",
-        "class": "Product"
-    },
-    {
-        "id": 9,
         "title": "ACTRIS Data Management Plan (DMP)",
         "url": "https://github.com/actris/data-management-plan/blob/master/DMP/ACTRIS-DMP.md",
         "description": "The goal of the DMP is to outline the strategy and process towards making ACTRIS data FAIR at ACTRIS Data Centre Level. The DMP is a living document.",
@@ -90,7 +70,7 @@
         "class": "Document"
     },
     {
-        "id": 10,
+        "id": 8,
         "title": "ACTRIS Virtual Research Environment (VRE)",
         "url": "https://dev-actris-vre.nilu.no/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FACTRIS-Data-Centre%2Factris-jupyter-hub&urlpath=lab%2Ftree%2Factris-jupyter-hub%2F",
         "description": "The ACTRIS Virtual Research Environment (VRE) is a JupyterHub-based platform that provides a user-friendly interface to access and analyse ACTRIS data and products. The VRE is a part of the ACTRIS Data Centre and is designed to support the ACTRIS community in their research activities. The VRE is a living platform and new features and services are continuously added to the platform. The VRE is a part of the ACTRIS Data Centre and is designed to support the ACTRIS community in their research activities. The VRE is a living platform and new features and services are continuously added to the platform",
@@ -100,7 +80,7 @@
         "class": "Tool"
     },
     {
-        "id": 11,
+        "id": 9,
         "title": "Cloud remote sensing data processing",
         "url": "https://github.com/actris-cloudnet/cloudnetpy",
         "description": "Cloudnetpy is a Python package for processing Cloud Remote Sensing data.",
@@ -110,7 +90,7 @@
         "class": "Tool"
     },
     {
-        "id": 12,
+        "id": 10,
         "title": "Cloud remote sensing data submission",
         "url": "https://github.com/actris-cloudnet/cloudnet-submit",
         "description": "Cloudnet-submit is a tool for submitting data to the ACTRIS Cloudnet data portal.",
@@ -120,7 +100,7 @@
         "class": "Tool"
     },
     {
-        "id": 13,
+        "id": 11,
         "title": "AERIS Data and Services Center",
         "url": "https://www.icare.univ-lille.fr/",
         "description": "As part of the AERIS national infrastructure for Atmospheric Research, ICARE Data and Services Centre provides various services to support the research community in fields related to atmospheric research, such as aerosols, clouds, radiation, water cycle, and their interactions. ICARE’s initial emphasis is the production and distribution of remote sensing data derived from Earth observation missions from CNES, NASA, and EUMETSAT. ",
@@ -130,7 +110,7 @@
         "class": "Service"
     },
     {
-        "id": 14,
+        "id": 12,
         "title": "Recommendations, guidelines, SOP and scientific articles for aerosol in situ measurements",
         "url": "https://actris-ecac.eu/measurement-guidelines.html",
         "description": "Recommendations, guidelines, SOP and scientific articles for aerosol in situ measurements. The recommendations and guidelines are developed by the ACTRIS Central Facility, CAIS-ECAC (Center for Aerosol In-Situ -European Centre for Aerosol Calibration) and are based on the best practices and knowledge available in the field of aerosol in situ measurements.",
@@ -140,7 +120,7 @@
         "class": "Document"
     },
     {
-        "id": 15,
+        "id": 13,
         "title": "In-situ Data Submission Tool",
         "url": "https://ebas-submit-tool.nilu.no/",
         "description": "A web based tool to check file formats for data submission to the EBAS database, which is the repository for ACTRIS In-Situ data. The tool checks the data files for compliance with the EBAS data format and provides feedback. ",
@@ -150,7 +130,7 @@
         "class": "Tool"
     },
     {
-        "id": 16,
+        "id": 14,
         "title": "In-Situ Data Submission Manual",
         "url": "https://ebas-submit.nilu.no/",
         "description": "A manual for data submission to the EBAS database, which is the repository for ACTRIS In-Situ data. The manual provides guidance on how to prepare and submit data files to the EBAS database. ",
@@ -160,7 +140,7 @@
         "class": "Document"
     },
     {
-        "id": 17,
+        "id": 15,
         "title": "Daily Dust Products",
         "url": "https://dust.aemet.es/products/daily-dust-products",
         "description": "Daily dust products from Barcelona Supercomputing Center (BSC), AEMET and WMO. This interactive visualisation tool allows you to access dust forecasts from different numerical models and dust-related observational products. ",
@@ -170,7 +150,7 @@
         "class": "Tool"
     },
     {
-        "id": 18,
+        "id": 16,
         "title": "ATMO-ACCESS Time-series analysis",
         "url": "https://services.iagos-data.fr/atmo-access/timeseries",
         "description": "This service allows you to search, analyse and visualise data from three Atmosphere European Research Infrastructures. It has been implemented in the framework of the European Project ATMO-ACCESS to demonstrate interoperability within the Research Infrastructures",
@@ -180,7 +160,7 @@
         "class": "Service"
     }, 
     {
-        "id": 19,
+        "id": 17,
         "title": "Aerosol Remote Sensing Database Processor",
         "url": "https://upload.earlinet.org/",
         "description": "The ACTRIS EARLINET Database Processor is a tool for uploading files, editing categories and download category-files to the EARLINET database, which is the repository for ACTRIS Aerosol Remote Sensing Data unit.",
@@ -190,7 +170,7 @@
         "class": "Tool"
     }, 
     {
-        "id": 20,
+        "id": 18,
         "title": "Aerosol Remote Sensing Quicklook Interface",
         "url": "https://quicklooks.earlinet.org/",
         "description": "The EARLINET Quicklook Interface provides a user-friendly interface for quick visualization and analysis of near real-time lidar data from the European Aerosol Research Lidar Network (EARLINET). It allows researchers to easily access and explore lidar measurements, aiding in the interpretation and understanding of atmospheric aerosols.",
@@ -200,7 +180,7 @@
         "class": "Tool"
     },
     {
-        "id": 21,
+        "id": 19,
         "title": "Aerosol Remote Sensing Single Calculus Chain (SCC)",
         "url": "https://www.earlinet.org/index.php?id=281",
         "description": "The ACTRIS EARLINET Single Calculus Chain (SCC) is a centralized tool for the automatic analysis of aerosol lidar measurements. The development of this tool started in the framework of EARLINET-ASOS (European Aerosol Research Lidar Network – Advanced Sustainable Observation System), it was extended and still on going under the ACTRIS (Aerosol, Clouds and Trace gases Research InfraStructure Network) umbrella. The SCC is a major component of the ACTRIS Aeorosol Remote Sensing Node (ARES) responsible for the curation and the processing of the ACTRIS aerosol remote sensing data.",
@@ -210,7 +190,7 @@
         "class": "Tool"
     },
     {
-        "id": 22,
+        "id": 20,
         "title": "ReObs",
         "url": "https://reobs.aeris-data.fr/",
         "description": "The objective of the ReOBS project is to create a multi-parameter dataset with a high level of quality control in a format that can be easily used by the scientific community for the study and understanding of climate variables at the regional scale. ReOBS aims to synthesize, analyze and homogenize all the observations of an ACTRIS site in a single NetCDF file with a time resolution of one hour (Chiriaco et al., 2018). The ReOBS file follows the CF and GCMD conventions for metadata as well as FAIR principles. ",
@@ -220,7 +200,7 @@
         "class": "Product"
     },
     {
-        "id": 23,
+        "id": 21,
         "title": "GEISA",
         "url": "https://geisa.aeris-data.fr/",
         "description": "the ARA (Atmospheric Radiation Analysis) group at LMD (Laboratoire de Météorologie Dynamique, France) has developed GEISA (Gestion et Etude des Informations Spectroscopiques Atmosphériques: Management and Study of Atmospheric Spectroscopic Information), a computer accessible database system [Chédin et al. (1982), Husson et al. (1992), Jacquinet-Husson et al. (1999, 2005, 2008, 2011, 2016), Armante et al (2016), designed to facilitate accurate and fast forward, calculations of atmospheric radiative transfer using a line-by-line and (atmospheric) layer-by-layer approach. This effort has proven to be beneficial to the atmospheric scientific community participating in direct and inverse radiative transfer studies. Three databases are available : GEISA-2020, GEISA-2015 and GEISA-2011 including line transition parameters, Absorption cross-sections and atmospheric aerosols sub-databases.",
@@ -230,7 +210,7 @@
         "class": "Product"
     },
     {
-        "id": 24,
+        "id": 22,
         "title": "PyACPIM Cloud Model",
         "url": "https://data.eurochamp.org/modelling-tools/#pyacpim",
         "description": "PyACPIM is a cloud parcel model including detailed, bineed cloud microphysics.It has been specifically designed to aid the understanding of experiments conducted in cloud chambers. The model comes with a graphical user interface which allows easy of use of the model.",
@@ -240,7 +220,7 @@
         "class": "Tool"
     },
     {
-        "id": 25,
+        "id": 23,
         "title": "UManSysProp",
         "url": "https://data.eurochamp.org/modelling-tools/#uman_sysprop",
         "description": "UManSysProp is an online facility for calculating the properties of individual organic molecules, ensemble mixtures and aerosol particles. It is built using open source chemical informatics and is accessible through the link http://umansysprop.seaes.manchester.ac.uk/. ",
@@ -250,7 +230,7 @@
         "class": "Tool"
     },
     {
-        "id": 26,
+        "id": 24,
         "title": "PyCHAM",
         "url": "https://data.eurochamp.org/modelling-tools/#pycham",
         "description": "PyCHAM is an open-access computer code (written in Python) for simulating aerosol chambers by coupling chemistry and aerosol microphysics. ",
@@ -260,7 +240,7 @@
         "class": "Tool"
     },
     {
-        "id": 27,
+        "id": 25,
         "title": "AtChem Online",
         "url": "https://data.eurochamp.org/modelling-tools/#atchem",
         "description": "AtChem Online is an open source, free to use on-line zero-dimensional box modelling toolkit, developed for use by laboratory, field and chamber scientists. Any general set of chemical reactions can be simulated, in particular subsets of the Master Chemical Mechanism (MCM (mcm.york.ac.uk)).",
@@ -270,7 +250,7 @@
         "class": "Tool"
     },
     {
-        "id": 28,
+        "id": 26,
         "title": "AtChem2 ",
         "url": "https://data.eurochamp.org/modelling-tools/#atchem_2",
         "description": "AtChem2 is an updated, standalone off-line version of Atchem Online. It allows the user to run longer, more complex simulations containing the full MCM, such as those needed for modelling of intensive field campaigns, as well as to perform batch model runs for sensitivity studies. AtChem2 is installed, set up and configured using semi-automated scripts and simple text configuration files, making it easy to use even for non-experienced users.",
@@ -280,7 +260,7 @@
         "class": "Tool"
     },
     {
-        "id": 29,
+        "id": 27,
         "title": "GECKO-A Online",
         "url": "https://data.eurochamp.org/modelling-tools/#gecko_a",
         "description": "GECKO-A Online is a web facility providing rate constants and thermodynamic properties (Henry’s law coefficient and saturation vapor pressure) for organic compounds based on Structure Activity Relationships. Gas phase oxidation mechanisms up to the first generation products can be downloaded. The tool generates mechanisms and properties for most acyclic and monocyclic hydrocarbons and related oxidation products (alcohols, carbonyls, nitrates, hydroperoxides, alkoxy and peroxy radicals, ...). ",
@@ -290,7 +270,7 @@
         "class": "Service"
     },
     {
-        "id": 30,
+        "id": 28,
         "title": "COSIMA",
         "url": "https://data.eurochamp.org/modelling-tools/#cosima",
         "description": "COSIMA is the web version of aerosol behaviour code COSIMA describing the structure and dynamics of irregularly formed or compact particles based on statistical mechanics and fractal scaling laws.",
@@ -300,7 +280,7 @@
         "class": "Service"
     },
     {
-        "id": 31,
+        "id": 29,
         "title": "AERIS/ICARE geostationary data viewer",
         "url": "https://dataviz.icare.univ-lille.fr/geoview",
         "description": "This web application provides a visualization web interface dedicated to geostationary satellites. It supports multiple products (RGB composites for ash, dust and natural false color, reflectances and brightness temperatures per channel and SAF Now Casting). Also multiple satellites are available, so the whole georing is covered",
@@ -310,7 +290,7 @@
         "class": "Service"
     },
     {
-        "id": 32,
+        "id": 30,
         "title": "VolcPlume portal",
         "url": "https://volcplume.aeris-data.fr/",
         "description": "The VolcPlume Portal (https://volcplume.aeris-data.fr) is dedicated to the near-real time and retrospective tracking and analysis of the physico-chemical properties of volcanic plumes in the atmosphere, from the source to regional/global scales. The portal allows for jointly analysing a broad panel of satellite and ground-based active and passive remote sensing observations of both volcanic gas and particles, as well as in-situ ground air quality monitoring measurements to detect and isolate a volcanic plume signature down to the ground. Benefiting from developments favouring interactivity and flexibility, this portal thus aims to facilitate an in-depth assessment of the multi-scale atmospheric impacts of volcanic plumes that can include, depending on the type and magnitude of the eruption, modifications of the atmospheric chemistry, degradation of air quality, aviation hazards, and climate impacts. ",
@@ -320,7 +300,7 @@
         "class": "Service"
     },
     {
-        "id": 33,
+        "id": 31,
         "title": "ACSM Network visualization tool",
         "url": "https://dataviz.icare.univ-lille.fr/acsm_dataviz",
         "description": "This web application provides a visualization web interface to explore the data acquired by ACSM at the european and for some stations also aethalometers and source apportionment retrievals.",
@@ -330,7 +310,7 @@
         "class": "Service"
     },
     {
-        "id": 34,
+        "id": 32,
         "title": " Four-dimensional distribution of the 2010 Eyjafjallajökull volcanic cloud over Europe.",
         "url": " https://doi.org/10.5194/acp-13-4429-2013 ",
         "description": " The four-dimensional (4-D) distribution of the Eyjafjallajökull volcanic cloud in the troposphere over Europe as observed by ACTRIS/EARLINET during the entire volcanic event (15 April–26 May 2010) was investigated thanks to the optical properties directly measured (backscatter, extinction, and particle linear depolarization ratio) and stored in the ACTRIS ARES database. A specific relational database providing the volcanic mask over Europe, realized ad hoc for this specific event, has been developed and made available. ",
@@ -340,7 +320,7 @@
         "class": "Product"
     },
     {
-        "id": 35,
+        "id": 33,
         "title": " ACTRIS/EARLINET Level 3 2000-2019 climatological dataset",
         "url": " https://doi.org/10.57837/cnr-imaa/ares/actris-earlinet/level3/climatological/2000_2019/all",
         "description": " The Level 3 standard products contain climatological datasets obtained as aggregated products from the fully quality controlled (QC) aerosol optical products (i.e. Level 2 products). In order to avoid biases due to measurements made on purpose specifically for capturing special events, it is considered only subset of data corresponding to regular schedule and measurements done for satellite validation purposes.",
@@ -350,7 +330,7 @@
         "class": "Product"
     },
     {
-     "id": 36,
+        "id": 34,
         "title": "ACTRIS ARES metadata catalog REST API",
         "url": " https://data.earlinet.org/api/services/restapi?_wadl",
         "description": "Machine-to-machine access to ACTRIS ARES data and products through the REST API. ",
@@ -358,6 +338,136 @@
         "img_url": "",
         "access_rights": "Open",
         "class": "Tool"
+    },
+    {
+        "id": 35,
+        "title": "Collocated observations of cloud condensation nuclei, particle size distributions, and chemical composition",
+        "url": "https://doi.org/10.1038/sdata.2017.3",
+        "description": "By Julia Schmale, Silvia Henning, Jeroen Sebastiaan Henzing, Helmi Keskinen, Karine Sellegri, Jurgita Ovadnevaite, Aikaterini Bougiatioti, Nikos Kalivitis, Iasonas Stavroulas, Anne Jefferson, Minsu Park, Patrick Schlag, Adam Kristensson, Yoko Iwamoto,, Kirsty Pringle, Carly Reddington, Pasi Aalto, Mikko Äijälä, Urs Baltensperger, Wolfram Birmili, Nicolas Bukowiecki, Mikael Ehn, Ann Mari Fjæraa, Markus Fiebig, Göran Frank, Roman Fröhlich, Arnoud Frumau, Masaki Furuya, Emanuel Hammer, Liine Heikkinen, Erik Herrmann, Rupert Holzinger, Hiroyuki Hyono, Maria Kanakidou, Astrid Kiendler-Scharr, Kento Kinochi, Gerard Kos, Markku Kulmala, Nikolaos Mihalopoulos, Ghislain Motos, Athanasios Nenes, Colin O’Dowd, Mikhail Paramonov, Tuukka Petäjä, David Picard, Laurent Poulain, André Prévôt, Jay Slowik, Andre Sonntag, Erik Swietlicki, Birgitta Svenningsson, Hiroshi Tsurumaru, Alfred Wiedensohler, Cerina Wittbom, John Ogren, Atsushi Matsuki, Seong Soo Yum, Cathrine Lund Myhre, Ken Carslaw, Frank Stratmann, and Martin Gysel (2017):  Scientific Data, doi:10.1038/sdata.2017.3, [pertaining data] [data policy]",
+        "keywords": ["", ""],   
+        "img_url": "https://actris.nilu.no/Content/Documents/Images/sdata20173-f1%20(3).jpg",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 36,
+        "title": "Warming-induced increase in aerosol number concentration likely to moderate climate change",
+        "url": "https://doi.org/10.1038/ngeo1800",
+        "description": "By Pauli Paasonen, Ari Asmi, Tuukka Petäjä, Maija K. Kajos, Mikko Äijälä, Heikki Junninen, Thomas Holst, Jonathan P. D. Abbatt, Almut Arneth, Wolfram Birmili, Hugo Denier van der Gon, Amar Hamed, András Hoffer, Lauri Laakso, Ari Laaksonen, W. Richard Leaitch, Christian Plass-Dülmer, Sara C. Pryor, Petri Räisänen, Erik Swietlicki, Alfred Wiedensohler, Douglas R. Worsnop, Veli-Matti Kerminen and Markku Kulmala (2013):  Nature Geoscience, DOI:10.1038/NGEO1800, [pertaining data] [data policy]",
+        "keywords": ["", ""],   
+        "img_url": "",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 37,
+        "title": "Number size distributions and seasonality of submicron particles in Europe 2008–2009",
+        "url": "https://doi.org/10.5194/acp-11-5505-2011",
+        "description": "By Asmi, A., Wiedensohler, A., Laj, P., Fjaeraa, A.-M., Sellegri, K., Birmili, W., Weingartner, E., Baltensperger, U., Zdimal, V., Zikova, N., Putaud, J.-P., Marinoni, A., Tunved, P., Hansson, H.-C., Fiebig, M., Kivekäs, N., Lihavainen, H., Asmi, E., Ulevicius, V., Aalto, P. P., Swietlicki, E., Kristensson, A., Mihalopoulos, N., Kalivitis, N., Kalapov, I., Kiss, G., de Leeuw, G., Henzing, B., Harrison, R. M., Beddows, D., O'Dowd, C., Jennings, S. G., Flentje, H., Weinhold, K., Meinhardt, F., Ries, L. and Kulmala, M. (2011):  Atmospheric Chemistry and Physics, DOI:10.5194/acp-11-5505-2011.",
+        "keywords": ["", ""],   
+        "img_url": "https://actris.nilu.no/Content/Documents/Images/stations-asmi-et-al.png",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 38,
+        "title": "Aerosol decadal trends - Part 1: In-situ optical measurements at GAW and IMPROVE stations",
+        "url": "https://doi.org/10.5194/acp-13-869-2013",
+        "description": "By Collaud Coen, M., Andrews, E., Asmi, A., Baltensperger, U., Bukowiecki, N., Day, D., Fiebig, M., Fjaeraa, A. M., Flentje, H., Hyvärinen, A., Jefferson, A., Jennings, S. G., Kouvarakis, G., Lihavainen, H., Lund Myhre, C., Malm, W. C., Mihapopoulos, N., Molenar, J. V., O'Dowd, C., Ogren, J. A., Schichtel, B. A., Sheridan, P., Virkkula, A., Weingartner, E., Weller, R. and Laj, P. (2013):  Atmospheric Chemistry and Physics, DOI:10.5194/acp-13-869-2013. [pertaining data] [data policy]",
+        "keywords": ["", ""],   
+        "img_url": "https://actris.nilu.no/Content/Documents/Images/mk-trends-coen-et-al.png",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 39,
+        "title": "Aerosol decadal trends - Part 2: In-situ aerosol particle number concentrations at GAW and ACTRIS stations",
+        "url": "https://doi.org/10.5194/acp-13-895-2013",
+        "description": "By Asmi, A., Collaud Coen, M., Ogren, J. A., Andrews, E., Sheridan, P., Jefferson, A., Weingartner, E., Baltensperger, U., Bukowiecki, N., Lihavainen, H., Kivekäs, N., Asmi, E., Aalto, P. P., Kulmala, M., Wiedensohler, A., Birmili, W., Hamed, A., O'Dowd, C., G Jennings, S., Weller, R., Flentje, H., Fjaeraa, A. M., Fiebig, M., Myhre, C. L., Hallar, A. G., Swietlicki, E., Kristensson, A. and Laj, P. (2013)  Atmospheric Chemistry and Physics, DOI:10.5194/acp-13-895-2013. [pertaining data] [data policy]",
+        "keywords": ["", ""],   
+        "img_url": "https://actris.nilu.no/Content/Documents/Images/tropos-trend-asmi-et-al.png",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 40,
+        "title": "Time series of aerosol light-absorption coefficients from Aethalometers at six Arctic stations between 2012 and 2014.",
+        "url": "https://doi.org/10.21336/gen.1",
+        "description": "By John Backman*, Lauren Schmeisser, Aki Virkkula, John A. Ogren, Eija Asmi, Sandra Starkweather, Sangeeta Sharma, Konstantinos Eleftheriadis, Stergios Vratolis, Taneil Uttal, Peter Tunved, Anne Jefferson, Michael Bergin, Alexander Makshtas, Peter Tunved, and Markus Fiebig (2017) https://doi.org/10.21336/gen.1",
+        "keywords": ["Time series", "aec", "aethalometer", "arctic", "light-absorption", "aerosol", "absorption"],   
+        "img_url": "https://actris.nilu.no/Content/Documents/Images/time_series_adaptive_var.png",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 41,
+        "title": "Trends in atmospheric sulfur components from the major regional monitoring network including results from six global atmospheric transport models, 1990-2015 (data from 1980)",
+        "url": "https://doi.org/10.21336/gen.2",
+        "description": "By Wenche Aas*, Augustin Mortier, Van Bowersox, Ribu Cherian, Greg Faluvegi, Hilde Fagerli, Jenny Hand, Zbigniew Klimont, Corinne Galy-Lacaux, Christopher M.B. Lehmann, Cathrine Lund Myhre, Gunnar Myhre, Dirk Olivié, Keiichi Sato, Johannes Quaas, P.S.P. Rao, Michael Schulz, Drew Shindell, Ragnhild B. Skeie, Ariel Stein, Toshihiko Takemura, Svetlana Tsyro, Robert Vet, Xiaobin Xu https://doi.org/10.21336/gen.2",
+        "keywords": ["", ""],   
+        "img_url": "https://actris.nilu.no/Content/Documents/Images/gen2.png",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 42,
+        "title": "Measured and modeled surface concentrations of aerosols from 'Concentrations and radiative forcing of anthropogenic aerosols from 1750-2014 simulated with the OsloCTM3 and CEDS emission inventory'",
+        "url": "https://doi.org/10.21336/gen.3",
+        "description": "By Marianne Tronstad Lund*, Gunnar Myhre, Amund Søvde Haslerud, Ragnhild Bieltvedt Skeie, Jan Griesfeller, Stephen M. Platt, Rajesh Kumar, Cathrine Lund Myhre, Michael Schulz https://doi.org/10.21336/gen.3",
+        "keywords": ["", ""],   
+        "img_url": "https://actris.nilu.no/Content/Documents/Images/FIG_doi_map_stations.png",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 43,
+        "title": "Time series of aerosol light scattering coefficients and enhancement factors from humidified tandem nephelometers at twenty-six stations between 1998 and 2017",
+        "url": "https://doi.org/10.21336/gen.4",
+        "description": "By Maria A. Burgos*, Elisabeth Andrews, Gloria Titos, Lucas Alados-Arboledas, Urs Baltensperger, Derek Day, Anne Jefferson, Nikos Kalivitis, Nikos Mihalopoulos, James Sherman, Junying Sun, Ernest Weingartner, and Paul Zieger https://doi.org/10.21336/gen.4",
+        "keywords": ["", ""],   
+        "img_url": "https://actris.nilu.no/Content/Documents/Images/map_fRH85_June2019.png",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 44,
+        "title": "Multidecadal time series of in-situ aerosol radiative properties from 52 stations around the world",
+        "url": "https://doi.org/10.21336/c4dy-yw57",
+        "description": "By Collaud Coen, M., Andrews, E., Alastuey, A., Arsov, T. P., Backman, J., Brem, B. T., Bukowiecki, N., Couret, C., Eleftheriadis, K., Flentje, H., Fiebig, M., Gysel-Beer, M., Hand, J. L., Hoffer, A., Hooda, R., Hueglin, C., Joubert, W., Keywood, M., Kim, J. E., Kim, S.-W., Labuschagne, C., Lin, N.-H., Lin, Y., Lund Myhre, C., Luoma, K., Lyamani, H., Marinoni, A., Mayol-Bracero, O. L., Mihalopoulos, N., Pandolfi, M., Prats, N., Prenni, A. J., Putaud, J.-P., Ries, L., Reisen, F., Sellegri, K., Sharma, S., Sheridan, P., Sherman, J. P., Sun, J., Titos, G., Torres, E., Tuch, T., Weller, R., Wiedensohler, A., Zieger, P., and Laj, P.: Multidecadal time series of in-situ aerosol radiative properties from 52 stations around the world https://doi.org/10.21336/c4dy-yw57",
+        "keywords": ["", ""],   
+        "img_url": "https://actris.nilu.no/Content/Documents/Images/figure-collaud.png",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 45,
+        "title": "A global analysis of climate-relevant aerosol properties retrieved from the network of GAW near-surface observatories",
+        "url": "https://doi.org/10.21336/7f34-8j17",
+        "description": "By Paolo Laj*, Alessandro Bigi, Clémence Rose, Elisabeth Andrews, Cathrine Lund Myhre, Martine Collaud Coen, Yong Lin, Alfred Wiedensohler, Michael Schultz, John A. Ogren, Markus Fiebig, Jonas Gliß, Augustin Mortier, Marco Pandolfi, Tuukka Petäjä, Sang-Woo Kim, Wenche Aas, Jean-Phillipe Putaud, Olga Mayol-Bracero, Melita Keywood, Lorenzo Labrador, Pasi Aalto, Erik Ahlberg, Lucas Alados Arboledas, Andrés Alastuey, Marcos Andrade, Begoña Artíñano, Stina Ausmeel, Todor Arsov, Eija Asmi, John Backman, Urs Baltensperger, Susanne Bastian, Olaf Bath, Johan Paul Beukes, Benjamin T. Brem, Nicolas Bukowiecki, Sébastien Conil, Cedric Couret, Derek Day, Wan Dayantolis, Anna Degorska, Konstantinos Eleftheriadis, Prodromos Fetfatzis, Olivier Favez, Harald Flentje, Maria I. Gini, Asta Gregorič, Martin Gysel-Beer, A. Gannet Hallar, Jenny Hand, Andras Hoffer, Christoph Hueglin, Rakesh K. Hooda, Antti Hyvärinen, Ivo Kalapov, Nikos Kalivitis, Anne Kasper-Giebl, Jeong Eun Kim, Giorgos Kouvarakis, Irena Kranjc, Radovan Krejci, Markku Kulmala, Casper Labuschagne, Hae-Jung Lee, Heikki Lihavainen, Neng-Huei Lin, Gunter Löschau, Krista Luoma, Angela Marinoni, Sebastiao Martins Dos Santos, Frank Meinhardt, Maik Merkel, Jean-Marc Metzger, Nikolaos Mihalopoulos, Nhat Anh Nguyen, Jakub Ondracek, Noemi Peréz, Maria Rita Perrone, Jean-Eudes Petit, David Picard, Jean-Marc Pichon, Véronique Pont, Natalia Prats, Anthony Prenni, Fabienne Reisen, Salvatore Romano, Karine Sellegri, Sangeeta Sharma, Gerhard Schauer, Patrick Sheridan, James Patrick Sherman, Maik Schütze, Andreas Schwerin, Ralf Sohmer, Mar Sorribas, Martin Steinbacher, Junying Sun, Gloria Titos, Barbara Tokzko, Thomas Tuch, Pierre Tulet, Peter Tunved, Ville Vakkari, Fernando Velarde, Patricio Velasquez, Paolo Villani, Sterios Vratolis, Sheng-Hsiang Wang, Kay Weinhold, Rolf Weller, Margarita Yela, Jesus Yus-Diez, Vladimir Zdimal, Paul Zieger, and Nadezda Zikova https://doi.org/10.21336/7f34-8j17",
+        "keywords": ["", ""],   
+        "img_url": "https://actris.nilu.no/Content/Documents/Images/SARGAN_Fig1_Map_91sites_pos_53AbsScaInRed.png",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 46,
+        "title": "Changes in black carbon emissions over Europe due to COVID-19 lockdown",
+        "url": "https://doi.org/10.21336/gen.b5vj-sn33",
+        "description": "By Evangeliou, N., Platt, S. M., Eckhardt, S., Lund Myhre, C., Laj, P., Alados-Arboledas, L., Backman, J., Brem, B. T., Fiebig, M., Flentje, H., Marinoni, A., Pandolfi, M., Yus-Dìez, J., Prats, N., Putaud, J. P., Sellegri, K., Sorribas, M., Eleftheriadis, K., Vratolis, S., Wiedensohler, A., and Stohl, A: Changes in black carbon emissions over Europe due to COVID-19 lockdown https://doi.org/10.21336/gen.b5vj-sn33",
+        "keywords": ["", ""],   
+        "img_url": "https://actris.nilu.no/Content/Documents/Images/fig6.png",
+        "access_rights": "Open",
+        "class": "Product"
+    },
+    {
+        "id": 47,
+        "title": "ACTRIS data during the COVID-19 pandemic spring 2020.",
+        "url": "https://doi.org/10.21336/gen.682q-8163",
+        "description": "This data collection contains measurements of aerosol, cloud and trace gases properties across Europe measured during the Covid-19 lockdown period 1 January 2020 - 31 May 2020. Data are compiled and made available by the ACTRIS Data Centre units, which include In Situ data centre unit (In-Situ), Aerosol remote sensing data centre unit (ARES), Cloud remote sensing data centre unit (CLU) and Data Discovery, Virtual Access and Services unit (DVAS). ",
+        "keywords": ["COVIS-19", "Pandemic", "Data", "Aerosol", "Cloud", "Trace gases", "Europe"],   
+        "img_url": "https://actris.nilu.no/Content/Documents/Images/map_Europe_3DCs_sites_pos_withoutLegend.png",
+        "access_rights": "Open",
+        "class": "Product"
     }
 ]
 
