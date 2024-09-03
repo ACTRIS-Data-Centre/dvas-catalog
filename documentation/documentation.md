@@ -4,7 +4,8 @@
 
 **ACTRIS In Situ data centre unit (In-Situ)**
 
-[Data access and file format documentation](https://ebas.nilu.no/data-access/)
+[Data access](https://ebas.nilu.no/data-access/)
+[File format documentation](https://ebas.pages.nilu.no/ebas-io/fileformat_netcdf/index.html)
 
 **ACTRIS Aerosol remote sensing data centre unit (ARES)**
 
