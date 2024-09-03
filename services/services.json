@@ -315,7 +315,7 @@
         "url": " https://doi.org/10.5194/acp-13-4429-2013 ",
         "description": " The four-dimensional (4-D) distribution of the Eyjafjallajökull volcanic cloud in the troposphere over Europe as observed by ACTRIS/EARLINET during the entire volcanic event (15 April–26 May 2010) was investigated thanks to the optical properties directly measured (backscatter, extinction, and particle linear depolarization ratio) and stored in the ACTRIS ARES database. A specific relational database providing the volcanic mask over Europe, realized ad hoc for this specific event, has been developed and made available. ",
         "keywords": ["volcanic eruption", "4d distribution", "Aerosol", "Ash", "Lidar", "Profiling", "ARES" ],   
-        "img_url": "https://earlinet.org/index.php?eID=tx_securedownloads&p=235&u=0&g=0&t=1725368480&hash=b98dd72e2d993b7598b941506529353fb8788de3&file=fileadmin/_migrated/pics/text_2000px_100416_mlt_klein.jpg",
+        "img_url": "https://earlinet.org/index.php?eID=tx_securedownloads&p=235&u=0&g=0&t=1725462127&hash=b1b13060133b77e284297a4b7a6d245117db3b21&file=fileadmin/_migrated/pics/text_2000px_100416_mlt_klein.jpg",
         "access_rights": "Open",
         "class": "Product"
     },
@@ -325,7 +325,7 @@
         "url": " https://doi.org/10.57837/cnr-imaa/ares/actris-earlinet/level3/climatological/2000_2019/all",
         "description": " The Level 3 standard products contain climatological datasets obtained as aggregated products from the fully quality controlled (QC) aerosol optical products (i.e. Level 2 products). In order to avoid biases due to measurements made on purpose specifically for capturing special events, it is considered only subset of data corresponding to regular schedule and measurements done for satellite validation purposes.",
         "keywords": ["climatology", "4d distribution",  "Aerosol", "Lidar", "Profiling", "ARES"],   
-        "img_url": "https://earlinet.org/index.php?eID=tx_securedownloads&p=319&u=0&g=0&t=1725368471&hash=76891da523d62a46a5d6f701a8642d2f13a6f031&file=fileadmin/_processed_/4/9/csm_Level3_data_example_62379c354b.jpg",
+        "img_url": "https://earlinet.org/index.php?eID=tx_securedownloads&p=322&u=0&g=0&t=1725462060&hash=14abaa0935adebcd357d610e989295f72465b637&file=fileadmin/_processed_/4/9/csm_Level3_data_example_62379c354b.jpg",
         "access_rights": "Open",
         "class": "Product"
     },
