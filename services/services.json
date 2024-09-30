@@ -60,16 +60,6 @@
         "class": "Service"
     },
     {
-        "id": 7,
-        "title": "ACTRIS Data Management Plan (DMP)",
-        "url": "https://github.com/actris/data-management-plan/blob/master/DMP/ACTRIS-DMP.md",
-        "description": "The goal of the DMP is to outline the strategy and process towards making ACTRIS data FAIR at ACTRIS Data Centre Level. The DMP is a living document.",
-        "keywords": ["ACTRIS", "DMP", "FAIR"],   
-        "img_url": "static/img/actris-dmp.png",
-        "access_rights": "Open",
-        "class": "Document"
-    },
-    {
         "id": 9,
         "title": "Cloud remote sensing data processing",
         "url": "https://github.com/actris-cloudnet/cloudnetpy",
@@ -107,7 +97,7 @@
         "keywords": ["ECAC", "ACTRIS", "Recommendations", "Guidelines", "SOP", "Scientific articles", "Aerosol", "In-situ", "Measurements"],   
         "img_url": "static/img/cais-ecac-recommendations.png",
         "access_rights": "Open",
-        "class": "Document"
+        "class": "Service"
     },
     {
         "id": 13,
@@ -127,7 +117,7 @@
         "keywords": ["EBAS", "Data", "Submission", "Manual", "In-situ", "ACTRIS", "NILU"],   
         "img_url": "static/img/ebas-data-submission-manual.png",
         "access_rights": "Open",
-        "class": "Document"
+        "class": "Tool"
     },
     {
         "id": 15,
@@ -283,7 +273,7 @@
         "id": 30,
         "title": "VolcPlume portal",
         "url": "https://volcplume.aeris-data.fr/",
-        "description": "The VolcPlume Portal (https://volcplume.aeris-data.fr) is dedicated to the near-real time and retrospective tracking and analysis of the physico-chemical properties of volcanic plumes in the atmosphere, from the source to regional/global scales. The portal allows for jointly analysing a broad panel of satellite and ground-based active and passive remote sensing observations of both volcanic gas and particles, as well as in-situ ground air quality monitoring measurements to detect and isolate a volcanic plume signature down to the ground. Benefiting from developments favouring interactivity and flexibility, this portal thus aims to facilitate an in-depth assessment of the multi-scale atmospheric impacts of volcanic plumes that can include, depending on the type and magnitude of the eruption, modifications of the atmospheric chemistry, degradation of air quality, aviation hazards, and climate impacts. ",
+        "description": "The VolcPlume Portal (https://volcplume.aeris-data.fr) is dedicated to the near-real time and retrospective tracking and analysis of the physico-chemical properties of volcanic plumes in the atmosphere, from the source to regional/global scales. The portal allows for jointly analysing a broad panel of satellite and ground-based active and passive remote sensing observations of both volcanic gas and particles, as well as in-situ ground air quality monitoring measurements to detect and isolate a volcanic plume signature down to the ground. Benefiting from developments favouring interactivity and flexibility, this portal thus aims to facilitate an in-depth assessment of the multi-scale atmospheric impacts of volcanic plumes that can include, depending on the type and magnitude of the eruption, modifications of the atmospheric chemistry, degradation of air quality, aviation hazards, and climate impacts. ",
         "keywords": ["ICARE", "AERIS","VOLCPLUME","VOLCANO"],
         "img_url": "https://www.icare.univ-lille.fr/wp-content-icare/uploads/sites/27/2022/07/volcplume-portal.png",
         "access_rights": "Open",
@@ -333,8 +323,8 @@
         "id": 35,
         "title": "Collocated observations of cloud condensation nuclei, particle size distributions, and chemical composition",
         "url": "https://doi.org/10.1038/sdata.2017.3",
-        "description": "By Julia Schmale, Silvia Henning, Jeroen Sebastiaan Henzing, Helmi Keskinen, Karine Sellegri, Jurgita Ovadnevaite, Aikaterini Bougiatioti, Nikos Kalivitis, Iasonas Stavroulas, Anne Jefferson, Minsu Park, Patrick Schlag, Adam Kristensson, Yoko Iwamoto,, Kirsty Pringle, Carly Reddington, Pasi Aalto, Mikko Äijälä, Urs Baltensperger, Wolfram Birmili, Nicolas Bukowiecki, Mikael Ehn, Ann Mari Fjæraa, Markus Fiebig, Göran Frank, Roman Fröhlich, Arnoud Frumau, Masaki Furuya, Emanuel Hammer, Liine Heikkinen, Erik Herrmann, Rupert Holzinger, Hiroyuki Hyono, Maria Kanakidou, Astrid Kiendler-Scharr, Kento Kinochi, Gerard Kos, Markku Kulmala, Nikolaos Mihalopoulos, Ghislain Motos, Athanasios Nenes, Colin O’Dowd, Mikhail Paramonov, Tuukka Petäjä, David Picard, Laurent Poulain, André Prévôt, Jay Slowik, Andre Sonntag, Erik Swietlicki, Birgitta Svenningsson, Hiroshi Tsurumaru, Alfred Wiedensohler, Cerina Wittbom, John Ogren, Atsushi Matsuki, Seong Soo Yum, Cathrine Lund Myhre, Ken Carslaw, Frank Stratmann, and Martin Gysel (2017):  Scientific Data, doi:10.1038/sdata.2017.3, [pertaining data] [data policy]",
-        "keywords": ["", ""],   
+        "description": "By Julia Schmale, Silvia Henning et al. (2017):  Scientific Data, doi:10.1038/sdata.2017.3, [pertaining data] [data policy]",
+        "keywords": ["CCN", "Aerosol", "Clouds", "Bas Henzing", "Helmi Keskinen", "Karine Sellegri", "Jurgita Ovadnevaite", "Aikaterini Bougiatioti", "Nikos Kalivitis", "Iasonas Stavroulas", "Anne Jefferson", "Minsu Park", "Patrick Schlag", "Adam Kristensson", "Yoko Iwamoto", "Kirsty Pringle", "Carly Reddington", "Pasi Aalto", "Mikko Äijälä", "Urs Baltensperger", "Jakub Bialek", "Wolfram Birmili", "Nicolas Bukowiecki", "Mikael Ehn", "Ann Mari Fjæraa", "Markus Fiebig", "Göran Frank", "Roman Fröhlich", "Arnoud Frumau", "Masaki Furuya", "Emanuel Hammer", "Liine Heikkinen", "Erik Herrmann", "Rupert Holzinger", "Hiroyuki Hyono", "Maria Kanakidou", "Astrid Kiendler-Scharr", "Kento Kinouchi", "Gerard Kos", "Markku Kulmala", "Nikolaos Mihalopoulos", "Ghislain Motos", "Athanasios Nenes", "Colin O'Dowd", "Mikhail Paramonov", "Tuukka Petäjä", "David Picard", "Laurent Poulain", "André Stephan Henry Prévôt", "Jay Slowik", "Andre Sonntag", "Erik Swietlicki", "Birgitta Svenningsson", "Hiroshi Tsurumaru", "Alfred Wiedensohler", "Cerina Wittbom", "John A. Ogren", "Atsushi Matsuki", "Seong Soo Yum", "Cathrine Lund Myhre", "Ken Carslaw", "Frank Stratmann", "Martin Gysel"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/sdata20173-f1%20(3).jpg",
         "access_rights": "Open",
         "class": "Product"
@@ -343,18 +333,18 @@
         "id": 36,
         "title": "Warming-induced increase in aerosol number concentration likely to moderate climate change",
         "url": "https://doi.org/10.1038/ngeo1800",
-        "description": "By Pauli Paasonen, Ari Asmi, Tuukka Petäjä, Maija K. Kajos, Mikko Äijälä, Heikki Junninen, Thomas Holst, Jonathan P. D. Abbatt, Almut Arneth, Wolfram Birmili, Hugo Denier van der Gon, Amar Hamed, András Hoffer, Lauri Laakso, Ari Laaksonen, W. Richard Leaitch, Christian Plass-Dülmer, Sara C. Pryor, Petri Räisänen, Erik Swietlicki, Alfred Wiedensohler, Douglas R. Worsnop, Veli-Matti Kerminen and Markku Kulmala (2013):  Nature Geoscience, DOI:10.1038/NGEO1800, [pertaining data] [data policy]",
-        "keywords": ["", ""],   
-        "img_url": "",
+        "description": "By Pauli Paasonen, Ari Asmi et al. (2013):  Nature Geoscience, DOI:10.1038/NGEO1800, [pertaining data] [data policy]",
+        "keywords": ["cloud condensation nuclei", "CCN", "Tuukka Petäjä", "Maija K. Kajos", "Mikko Äijälä", "Heikki Junninen", "Thomas Holst", "Jonathan P. D. Abbatt", "Almut Arneth", "Wolfram Birmili", "Hugo Denier van der Gon", "Amar Hamed", "András Hoffer", "Lauri Laakso", "Ari Laaksonen", "W. Richard Leaitch", "Christian Plass-Dülmer", "Sara C. Pryor", "Petri Räisänen", "Erik Swietlicki", "Alfred Wiedensohler", "Douglas R. Worsnop", "Veli-Matti Kerminen", "Markku Kulmala"],   
+        "img_url": "static/img/Warming-induced_increase_in_aerosol_number_concentration_likely_to_moderate_climate_change-ngeo1800.png",
         "access_rights": "Open",
         "class": "Product"
     },
     {
         "id": 37,
-        "title": "Number size distributions and seasonality of submicron particles in Europe 2008–2009",
+        "title": "Number size distributions and seasonality of submicron particles in Europe 2008-2009",
         "url": "https://doi.org/10.5194/acp-11-5505-2011",
-        "description": "By Asmi, A., Wiedensohler, A., Laj, P., Fjaeraa, A.-M., Sellegri, K., Birmili, W., Weingartner, E., Baltensperger, U., Zdimal, V., Zikova, N., Putaud, J.-P., Marinoni, A., Tunved, P., Hansson, H.-C., Fiebig, M., Kivekäs, N., Lihavainen, H., Asmi, E., Ulevicius, V., Aalto, P. P., Swietlicki, E., Kristensson, A., Mihalopoulos, N., Kalivitis, N., Kalapov, I., Kiss, G., de Leeuw, G., Henzing, B., Harrison, R. M., Beddows, D., O'Dowd, C., Jennings, S. G., Flentje, H., Weinhold, K., Meinhardt, F., Ries, L. and Kulmala, M. (2011):  Atmospheric Chemistry and Physics, DOI:10.5194/acp-11-5505-2011.",
-        "keywords": ["", ""],   
+        "description": "By Asmi, A., Wiedensohler, A. et al. (2011):  Atmospheric Chemistry and Physics, DOI:10.5194/acp-11-5505-2011.",
+        "keywords": ["Laj, P.", "Fjaeraa, A.-M.", "Sellegri, K.", "Birmili, W.", "Weingartner, E.", "Baltensperger, U.", "Zdimal, V.", "Zikova, N.", "Putaud, J.-P.", "Marinoni, A.", "Tunved, P.", "Hansson, H.-C.", "Fiebig, M.", "Kivekäs, N.", "Lihavainen, H.", "Asmi, E.", "Ulevicius, V.", "Aalto, P. P.", "Swietlicki, E.", "Kristensson, A.", "Mihalopoulos, N.", "Kalivitis, N.", "Kalapov, I.", "Kiss, G.", "de Leeuw, G.", "Henzing, B.", "Harrison, R. M.", "Beddows, D.", "O'Dowd, C.", "Jennings, S. G.", "Flentje, H.", "Weinhold, K.", "Meinhardt, F.", "Ries, L.", "Kulmala, M."],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/stations-asmi-et-al.png",
         "access_rights": "Open",
         "class": "Product"
@@ -363,8 +353,8 @@
         "id": 38,
         "title": "Aerosol decadal trends - Part 1: In-situ optical measurements at GAW and IMPROVE stations",
         "url": "https://doi.org/10.5194/acp-13-869-2013",
-        "description": "By Collaud Coen, M., Andrews, E., Asmi, A., Baltensperger, U., Bukowiecki, N., Day, D., Fiebig, M., Fjaeraa, A. M., Flentje, H., Hyvärinen, A., Jefferson, A., Jennings, S. G., Kouvarakis, G., Lihavainen, H., Lund Myhre, C., Malm, W. C., Mihapopoulos, N., Molenar, J. V., O'Dowd, C., Ogren, J. A., Schichtel, B. A., Sheridan, P., Virkkula, A., Weingartner, E., Weller, R. and Laj, P. (2013):  Atmospheric Chemistry and Physics, DOI:10.5194/acp-13-869-2013. [pertaining data] [data policy]",
-        "keywords": ["", ""],   
+        "description": "By Collaud Coen, M., Andrews, E. et al. (2013):  Atmospheric Chemistry and Physics, DOI:10.5194/acp-13-869-2013. [pertaining data] [data policy]",
+        "keywords": ["Asmi, A.", "Baltensperger, U.", "Bukowiecki, N.", "Day, D.", "Fiebig, M.", "Fjaeraa, A. M.", "Flentje, H.", "Hyvärinen, A.", "Jefferson, A.", "Jennings, S. G.", "Kouvarakis, G.", "Lihavainen, H.", "Lund Myhre, C.", "Malm, W. C.", "Mihapopoulos, N.", "Molenar, J. V.", "O'Dowd, C.", "Ogren, J. A.", "Schichtel, B. A.", "Sheridan, P.", "Virkkula, A.", "Weingartner, E.", "Weller, R.", "Laj, P."],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/mk-trends-coen-et-al.png",
         "access_rights": "Open",
         "class": "Product"
@@ -373,8 +363,8 @@
         "id": 39,
         "title": "Aerosol decadal trends - Part 2: In-situ aerosol particle number concentrations at GAW and ACTRIS stations",
         "url": "https://doi.org/10.5194/acp-13-895-2013",
-        "description": "By Asmi, A., Collaud Coen, M., Ogren, J. A., Andrews, E., Sheridan, P., Jefferson, A., Weingartner, E., Baltensperger, U., Bukowiecki, N., Lihavainen, H., Kivekäs, N., Asmi, E., Aalto, P. P., Kulmala, M., Wiedensohler, A., Birmili, W., Hamed, A., O'Dowd, C., G Jennings, S., Weller, R., Flentje, H., Fjaeraa, A. M., Fiebig, M., Myhre, C. L., Hallar, A. G., Swietlicki, E., Kristensson, A. and Laj, P. (2013)  Atmospheric Chemistry and Physics, DOI:10.5194/acp-13-895-2013. [pertaining data] [data policy]",
-        "keywords": ["", ""],   
+        "description": "By Asmi, A., Collaud Coen, M. et al. (2013)  Atmospheric Chemistry and Physics, DOI:10.5194/acp-13-895-2013. [pertaining data] [data policy]",
+        "keywords": ["Ogren, J. A.", "Andrews, E.", "Sheridan, P.", "Jefferson, A.", "Weingartner, E.", "Baltensperger, U.", "Bukowiecki, N.", "Lihavainen, H.", "Kivekäs, N.", "Asmi, E.", "Aalto, P. P.", "Kulmala, M.", "Wiedensohler, A.", "Birmili, W.", "Hamed, A.", "O'Dowd, C.", "Jennings, S. G.", "Weller, R.", "Flentje, H.", "Fjaeraa, A. M.", "Fiebig, M.", "Myhre, C. L.", "Hallar, A. G.", "Swietlicki, E.", "Kristensson, A.", "Laj, P."],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/tropos-trend-asmi-et-al.png",
         "access_rights": "Open",
         "class": "Product"
@@ -383,8 +373,8 @@
         "id": 40,
         "title": "Time series of aerosol light-absorption coefficients from Aethalometers at six Arctic stations between 2012 and 2014.",
         "url": "https://doi.org/10.21336/gen.1",
-        "description": "By John Backman*, Lauren Schmeisser, Aki Virkkula, John A. Ogren, Eija Asmi, Sandra Starkweather, Sangeeta Sharma, Konstantinos Eleftheriadis, Stergios Vratolis, Taneil Uttal, Peter Tunved, Anne Jefferson, Michael Bergin, Alexander Makshtas, Peter Tunved, and Markus Fiebig (2017) https://doi.org/10.21336/gen.1",
-        "keywords": ["Time series", "aec", "aethalometer", "arctic", "light-absorption", "aerosol", "absorption"],   
+        "description": "By John Backman*, Lauren Schmeisser et al. (2017) https://doi.org/10.21336/gen.1",
+        "keywords": ["Time series", "aec", "aethalometer", "arctic", "light-absorption", "aerosol", "absorption", "Aki Virkkula", "John A. Ogren", "Eija Asmi", "Sandra Starkweather", "Sangeeta Sharma", "Konstantinos Eleftheriadis", "Stergios Vratolis", "Taneil Uttal", "Peter Tunved", "Anne Jefferson", "Michael Bergin", "Alexander Makshtas", "Markus Fiebig"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/time_series_adaptive_var.png",
         "access_rights": "Open",
         "class": "Product"
@@ -393,8 +383,8 @@
         "id": 41,
         "title": "Trends in atmospheric sulfur components from the major regional monitoring network including results from six global atmospheric transport models, 1990-2015 (data from 1980)",
         "url": "https://doi.org/10.21336/gen.2",
-        "description": "By Wenche Aas*, Augustin Mortier, Van Bowersox, Ribu Cherian, Greg Faluvegi, Hilde Fagerli, Jenny Hand, Zbigniew Klimont, Corinne Galy-Lacaux, Christopher M.B. Lehmann, Cathrine Lund Myhre, Gunnar Myhre, Dirk Olivié, Keiichi Sato, Johannes Quaas, P.S.P. Rao, Michael Schulz, Drew Shindell, Ragnhild B. Skeie, Ariel Stein, Toshihiko Takemura, Svetlana Tsyro, Robert Vet, Xiaobin Xu https://doi.org/10.21336/gen.2",
-        "keywords": ["", ""],   
+        "description": "By Wenche Aas*, Augustin Mortier et al. https://doi.org/10.21336/gen.2",
+        "keywords": ["Van Bowersox", "Ribu Cherian", "Greg Faluvegi", "Hilde Fagerli", "Jenny Hand", "Zbigniew Klimont", "Corinne Galy-Lacaux", "Christopher M.B. Lehmann", "Cathrine Lund Myhre", "Gunnar Myhre", "Dirk Olivié", "Keiichi Sato", "Johannes Quaas", "P.S.P. Rao", "Michael Schulz", "Drew Shindell", "Ragnhild B. Skeie", "Ariel Stein", "Toshihiko Takemura", "Svetlana Tsyro", "Robert Vet", "Xiaobin Xu"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/gen2.png",
         "access_rights": "Open",
         "class": "Product"
@@ -403,8 +393,8 @@
         "id": 42,
         "title": "Measured and modeled surface concentrations of aerosols from 'Concentrations and radiative forcing of anthropogenic aerosols from 1750-2014 simulated with the OsloCTM3 and CEDS emission inventory'",
         "url": "https://doi.org/10.21336/gen.3",
-        "description": "By Marianne Tronstad Lund*, Gunnar Myhre, Amund Søvde Haslerud, Ragnhild Bieltvedt Skeie, Jan Griesfeller, Stephen M. Platt, Rajesh Kumar, Cathrine Lund Myhre, Michael Schulz https://doi.org/10.21336/gen.3",
-        "keywords": ["", ""],   
+        "description": "By Marianne Tronstad Lund*, Gunnar Myhre et al. https://doi.org/10.21336/gen.3",
+        "keywords": ["Amund Søvde Haslerud", "Ragnhild Bieltvedt Skeie", "Jan Griesfeller", "Stephen M. Platt", "Rajesh Kumar", "Cathrine Lund Myhre", "Michael Schulz"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/FIG_doi_map_stations.png",
         "access_rights": "Open",
         "class": "Product"
@@ -413,8 +403,8 @@
         "id": 43,
         "title": "Time series of aerosol light scattering coefficients and enhancement factors from humidified tandem nephelometers at twenty-six stations between 1998 and 2017",
         "url": "https://doi.org/10.21336/gen.4",
-        "description": "By Maria A. Burgos*, Elisabeth Andrews, Gloria Titos, Lucas Alados-Arboledas, Urs Baltensperger, Derek Day, Anne Jefferson, Nikos Kalivitis, Nikos Mihalopoulos, James Sherman, Junying Sun, Ernest Weingartner, and Paul Zieger https://doi.org/10.21336/gen.4",
-        "keywords": ["", ""],   
+        "description": "By Maria A. Burgos*, Elisabeth Andrews et al. https://doi.org/10.21336/gen.4",
+        "keywords": ["Gloria Titos", "Lucas Alados-Arboledas", "Urs Baltensperger", "Derek Day", "Anne Jefferson", "Nikos Kalivitis", "Nikos Mihalopoulos", "James Sherman", "Junying Sun", "Ernest Weingartner", "Paul Zieger"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/map_fRH85_June2019.png",
         "access_rights": "Open",
         "class": "Product"
@@ -423,8 +413,8 @@
         "id": 44,
         "title": "Multidecadal time series of in-situ aerosol radiative properties from 52 stations around the world",
         "url": "https://doi.org/10.21336/c4dy-yw57",
-        "description": "By Collaud Coen, M., Andrews, E., Alastuey, A., Arsov, T. P., Backman, J., Brem, B. T., Bukowiecki, N., Couret, C., Eleftheriadis, K., Flentje, H., Fiebig, M., Gysel-Beer, M., Hand, J. L., Hoffer, A., Hooda, R., Hueglin, C., Joubert, W., Keywood, M., Kim, J. E., Kim, S.-W., Labuschagne, C., Lin, N.-H., Lin, Y., Lund Myhre, C., Luoma, K., Lyamani, H., Marinoni, A., Mayol-Bracero, O. L., Mihalopoulos, N., Pandolfi, M., Prats, N., Prenni, A. J., Putaud, J.-P., Ries, L., Reisen, F., Sellegri, K., Sharma, S., Sheridan, P., Sherman, J. P., Sun, J., Titos, G., Torres, E., Tuch, T., Weller, R., Wiedensohler, A., Zieger, P., and Laj, P.: Multidecadal time series of in-situ aerosol radiative properties from 52 stations around the world https://doi.org/10.21336/c4dy-yw57",
-        "keywords": ["", ""],   
+        "description": "By Collaud Coen, M., Andrews, E. et al.: Multidecadal time series of in-situ aerosol radiative properties from 52 stations around the world https://doi.org/10.21336/c4dy-yw57",
+        "keywords": ["Alastuey, A.", "Arsov, T. P.", "Backman, J.", "Brem, B. T.", "Bukowiecki, N.", "Couret, C.", "Eleftheriadis, K.", "Flentje, H.", "Fiebig, M.", "Gysel-Beer, M.", "Hand, J. L.", "Hoffer, A.", "Hooda, R.", "Hueglin, C.", "Joubert, W.", "Keywood, M.", "Kim, J. E.", "Kim, S.-W.", "Labuschagne, C.", "Lin, N.-H.", "Lin, Y.", "Lund Myhre, C.", "Luoma, K.", "Lyamani, H.", "Marinoni, A.", "Mayol-Bracero, O. L.", "Mihalopoulos, N.", "Pandolfi, M.", "Prats, N.", "Prenni, A. J.", "Putaud, J.-P.", "Ries, L.", "Reisen, F.", "Sellegri, K.", "Sharma, S.", "Sheridan, P.", "Sherman, J. P.", "Sun, J.", "Titos, G.", "Torres, E.", "Tuch, T.", "Weller, R.", "Wiedensohler, A.", "Zieger, P.", "Laj, P."],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/figure-collaud.png",
         "access_rights": "Open",
         "class": "Product"
@@ -433,8 +423,8 @@
         "id": 45,
         "title": "A global analysis of climate-relevant aerosol properties retrieved from the network of GAW near-surface observatories",
         "url": "https://doi.org/10.21336/7f34-8j17",
-        "description": "By Paolo Laj*, Alessandro Bigi, Clémence Rose, Elisabeth Andrews, Cathrine Lund Myhre, Martine Collaud Coen, Yong Lin, Alfred Wiedensohler, Michael Schultz, John A. Ogren, Markus Fiebig, Jonas Gliß, Augustin Mortier, Marco Pandolfi, Tuukka Petäjä, Sang-Woo Kim, Wenche Aas, Jean-Phillipe Putaud, Olga Mayol-Bracero, Melita Keywood, Lorenzo Labrador, Pasi Aalto, Erik Ahlberg, Lucas Alados Arboledas, Andrés Alastuey, Marcos Andrade, Begoña Artíñano, Stina Ausmeel, Todor Arsov, Eija Asmi, John Backman, Urs Baltensperger, Susanne Bastian, Olaf Bath, Johan Paul Beukes, Benjamin T. Brem, Nicolas Bukowiecki, Sébastien Conil, Cedric Couret, Derek Day, Wan Dayantolis, Anna Degorska, Konstantinos Eleftheriadis, Prodromos Fetfatzis, Olivier Favez, Harald Flentje, Maria I. Gini, Asta Gregorič, Martin Gysel-Beer, A. Gannet Hallar, Jenny Hand, Andras Hoffer, Christoph Hueglin, Rakesh K. Hooda, Antti Hyvärinen, Ivo Kalapov, Nikos Kalivitis, Anne Kasper-Giebl, Jeong Eun Kim, Giorgos Kouvarakis, Irena Kranjc, Radovan Krejci, Markku Kulmala, Casper Labuschagne, Hae-Jung Lee, Heikki Lihavainen, Neng-Huei Lin, Gunter Löschau, Krista Luoma, Angela Marinoni, Sebastiao Martins Dos Santos, Frank Meinhardt, Maik Merkel, Jean-Marc Metzger, Nikolaos Mihalopoulos, Nhat Anh Nguyen, Jakub Ondracek, Noemi Peréz, Maria Rita Perrone, Jean-Eudes Petit, David Picard, Jean-Marc Pichon, Véronique Pont, Natalia Prats, Anthony Prenni, Fabienne Reisen, Salvatore Romano, Karine Sellegri, Sangeeta Sharma, Gerhard Schauer, Patrick Sheridan, James Patrick Sherman, Maik Schütze, Andreas Schwerin, Ralf Sohmer, Mar Sorribas, Martin Steinbacher, Junying Sun, Gloria Titos, Barbara Tokzko, Thomas Tuch, Pierre Tulet, Peter Tunved, Ville Vakkari, Fernando Velarde, Patricio Velasquez, Paolo Villani, Sterios Vratolis, Sheng-Hsiang Wang, Kay Weinhold, Rolf Weller, Margarita Yela, Jesus Yus-Diez, Vladimir Zdimal, Paul Zieger, and Nadezda Zikova https://doi.org/10.21336/7f34-8j17",
-        "keywords": ["", ""],   
+        "description": "By Paolo Laj*, Alessandro Bigi et al.  https://doi.org/10.21336/7f34-8j17",
+        "keywords": ["Clémence Rose", "Elisabeth Andrews", "Cathrine Lund Myhre", "Martine Collaud Coen", "Yong Lin", "Alfred Wiedensohler", "Michael Schultz", "John A. Ogren", "Markus Fiebig", "Jonas Gliß", "Augustin Mortier", "Marco Pandolfi", "Tuukka Petäjä", "Sang-Woo Kim", "Wenche Aas", "Jean-Phillipe Putaud", "Olga Mayol-Bracero", "Melita Keywood", "Lorenzo Labrador", "Pasi Aalto", "Erik Ahlberg", "Lucas Alados Arboledas", "Andrés Alastuey", "Marcos Andrade", "Begoña Artíñano", "Stina Ausmeel", "Todor Arsov", "Eija Asmi", "John Backman", "Urs Baltensperger", "Susanne Bastian", "Olaf Bath", "Johan Paul Beukes", "Benjamin T. Brem", "Nicolas Bukowiecki", "Sébastien Conil", "Cedric Couret", "Derek Day", "Wan Dayantolis", "Anna Degorska", "Konstantinos Eleftheriadis", "Prodromos Fetfatzis", "Olivier Favez", "Harald Flentje", "Maria I. Gini", "Asta Gregorič", "Martin Gysel-Beer", "A. Gannet Hallar", "Jenny Hand", "Andras Hoffer", "Christoph Hueglin", "Rakesh K. Hooda", "Antti Hyvärinen", "Ivo Kalapov", "Nikos Kalivitis", "Anne Kasper-Giebl", "Jeong Eun Kim", "Giorgos Kouvarakis", "Irena Kranjc", "Radovan Krejci", "Markku Kulmala", "Casper Labuschagne", "Hae-Jung Lee", "Heikki Lihavainen", "Neng-Huei Lin", "Gunter Löschau", "Krista Luoma", "Angela Marinoni", "Sebastiao Martins Dos Santos", "Frank Meinhardt", "Maik Merkel", "Jean-Marc Metzger", "Nikolaos Mihalopoulos", "Nhat Anh Nguyen", "Jakub Ondracek", "Noemi Peréz", "Maria Rita Perrone", "Jean-Eudes Petit", "David Picard", "Jean-Marc Pichon", "Véronique Pont", "Natalia Prats", "Anthony Prenni", "Fabienne Reisen", "Salvatore Romano", "Karine Sellegri", "Sangeeta Sharma", "Gerhard Schauer", "Patrick Sheridan", "James Patrick Sherman", "Maik Schütze", "Andreas Schwerin", "Ralf Sohmer", "Mar Sorribas", "Martin Steinbacher", "Junying Sun", "Gloria Titos", "Barbara Tokzko", "Thomas Tuch", "Pierre Tulet", "Peter Tunved", "Ville Vakkari", "Fernando Velarde", "Patricio Velasquez", "Paolo Villani", "Sterios Vratolis", "Sheng-Hsiang Wang", "Kay Weinhold", "Rolf Weller", "Margarita Yela", "Jesus Yus-Diez", "Vladimir Zdimal", "Paul Zieger", "Nadezda Zikova"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/SARGAN_Fig1_Map_91sites_pos_53AbsScaInRed.png",
         "access_rights": "Open",
         "class": "Product"
@@ -443,8 +433,8 @@
         "id": 46,
         "title": "Changes in black carbon emissions over Europe due to COVID-19 lockdown",
         "url": "https://doi.org/10.21336/gen.b5vj-sn33",
-        "description": "By Evangeliou, N., Platt, S. M., Eckhardt, S., Lund Myhre, C., Laj, P., Alados-Arboledas, L., Backman, J., Brem, B. T., Fiebig, M., Flentje, H., Marinoni, A., Pandolfi, M., Yus-Dìez, J., Prats, N., Putaud, J. P., Sellegri, K., Sorribas, M., Eleftheriadis, K., Vratolis, S., Wiedensohler, A., and Stohl, A: Changes in black carbon emissions over Europe due to COVID-19 lockdown https://doi.org/10.21336/gen.b5vj-sn33",
-        "keywords": ["", ""],   
+        "description": "By Evangeliou, N., Platt, S. M. et al.: Changes in black carbon emissions over Europe due to COVID-19 lockdown https://doi.org/10.21336/gen.b5vj-sn33",
+        "keywords": ["Eckhardt, S.", "Lund Myhre, C.", "Laj, P.", "Alados-Arboledas, L.", "Backman, J.", "Brem, B. T.", "Fiebig, M.", "Flentje, H.", "Marinoni, A.", "Pandolfi, M.", "Yus-Dìez, J.", "Prats, N.", "Putaud, J. P.", "Sellegri, K.", "Sorribas, M.", "Eleftheriadis, K.", "Vratolis, S.", "Wiedensohler, A.", "Stohl, A"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/fig6.png",
         "access_rights": "Open",
         "class": "Product"
@@ -458,5 +448,25 @@
         "img_url": "https://actris.nilu.no/Content/Documents/Images/map_Europe_3DCs_sites_pos_withoutLegend.png",
         "access_rights": "Open",
         "class": "Product"
+    },
+    {
+        "id": 48,
+        "title": "@VOC@",
+        "url": "https://voc-qc.nilu.no/",
+        "description": "Web-based tool checking for VOC data",
+        "keywords": ["", ""],   
+        "img_url": "/static/img/thumbnail_ATVOCAT.jpg",
+        "access_rights": "Restricted",
+        "class": "Tool"
+    },
+    {
+        "id": 49,
+        "title": "Tutorial for using @VOC@",
+        "url": "https://polybox.ethz.ch/index.php/s/uI9WdN81AluL7gO",
+        "description": "Tutorial video for using @VOC@, the web-based tool checking for VOC data", 
+        "keywords": ["", ""],   
+        "img_url": "static/img/empa_voc_tutorial_video.png",
+        "access_rights": "Open",
+        "class": "Tool"
     }
 ]
