@@ -335,7 +335,7 @@
         "url": "https://doi.org/10.1038/ngeo1800",
         "description": "By Pauli Paasonen, Ari Asmi et al. (2013):  Nature Geoscience, DOI:10.1038/NGEO1800, [pertaining data] [data policy]",
         "keywords": ["cloud condensation nuclei", "CCN", "Tuukka Petäjä", "Maija K. Kajos", "Mikko Äijälä", "Heikki Junninen", "Thomas Holst", "Jonathan P. D. Abbatt", "Almut Arneth", "Wolfram Birmili", "Hugo Denier van der Gon", "Amar Hamed", "András Hoffer", "Lauri Laakso", "Ari Laaksonen", "W. Richard Leaitch", "Christian Plass-Dülmer", "Sara C. Pryor", "Petri Räisänen", "Erik Swietlicki", "Alfred Wiedensohler", "Douglas R. Worsnop", "Veli-Matti Kerminen", "Markku Kulmala"],   
-        "img_url": "static/img/Warming-induced_increase_in_aerosol_number_concentration_likely_to_moderate_climate_change-ngeo1800.png",
+        "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/Warming-induced_increase_in_aerosol_number_concentration_likely_to_moderate_climate_change-ngeo1800.png",
         "access_rights": "Open",
         "class": "Product"
     },
