@@ -5,7 +5,7 @@
         "url": "https://vocabulary.actris.nilu.no/skosmos/en/",
         "description": "The ACTRIS vocabulary server documents the vocabulary and controlled lists of terms used by the Aerosol, Clouds and Trace Gases Research Infrastructure (ACTRIS). As grammar for observed variables, the ACTRIS vocabulary takes into use the InteroperAble Descriptions of Observable Property Terminology (I-ADOPT) concept for atomizing the variable names into parts of themselves controlled lists of terms. The vocabulary tries to refer to link to external vocabularies wherever possible.",
         "keywords": ["ACTRIS", "vocabulary", "glossary", "I-ADOPT", "iadopt", "terminology"],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/vocab-server.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/vocab-server.png",
         "access_rights": "Open",
         "class": "Service"
     },
@@ -15,7 +15,7 @@
         "url": "https://ebas-nrt.nilu.no/",
         "description": "Plotting of ACTRIS In Situ Near-Real-Time Data and other NRT data products from the EBAS database.",
         "keywords": ["ACTRIS", "In-situ", "NRT", "Near Real-Time", "Data", "EBAS","NILU"],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/actris-in-situ-nrt.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/actris-in-situ-nrt.png",
         "access_rights": "Open",
         "class": "Service"
     },
@@ -25,7 +25,7 @@
         "url": "https://prod-actris-md.nilu.no/index.html",
         "description": "Machine-to-machine access to ACTRIS data and products through the REST API. The API is currently undergoing upgrades. You might experience some timeouts.",
         "keywords": ["ACTRIS", "Metadata", "Rest API", "Access"],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/actris-rest-api.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/actris-rest-api.png",
         "access_rights": "Open",
         "class": "Tool"
     },
@@ -35,7 +35,7 @@
         "url": "https://homeless-data-portal.nilu.no/",
         "description": "The Homeless data portal is set up to serve scientists producing atmospheric measurements and time series resulting from research campaigns and TNA activities that are normally not included into any data management and data curation system and activity. These data sets are “homeless data”, not associated with any long-term projects nor sustainable data centers. The objective of this portal is to provided access to relevant services and tools facilitating access to TNA data and campaign data for future use through long term, sustainable data centers. The goal of the tool is to make more data available to the end-user, as well as providing benefits for data collectors in terms of usage tracking and access to RI (Research Infrastructure) specific tools for curation and data access.",
         "keywords": ["ATMO-ACCESS", "Data Portal", "Curation", "Measurements"],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/homeless-data-portal.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/homeless-data-portal.png",
         "access_rights": "Open",
         "class": "Service"
     },
@@ -45,7 +45,7 @@
         "url": "https://flexpart-request.nilu.no/",
         "description": "Discover and make use of the FLEXPART atmospheric transport modeling products for ground-based aerosol and trace gas observations to analyse source regions and emission sources of aerosols and reactive trace gases. Many ACTRIS National Facilities are already included and you can request new model runs to produce data products (e.g. footprint residence times, source contributions from different emission sectors) for your decided locations, or search and use the already produced products.",
         "keywords": ["ATMO-ACCESS", "FLEXPART", "Model", "Aerosol", "Trace gas", "source apportionment", "footprint"],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/flexpart-requests.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/flexpart-requests.png",
         "access_rights": "Open",
         "class": "Product"
     },
@@ -55,7 +55,7 @@
         "url": "https://thredds.nilu.no/thredds/catalog.html",
         "description": "The NILU THREDDS Data Server provides catalog, metadata, and data access services for scientific data from the EBAS database and both ACTRIS and EBAS Near Real-Time Data. The server provided several access protocols such as e.g. OPeNDAP (file streaming) and HTTPServer (direct download). Recommended search method for the NILU THREDDS Data Server is using the ACTRIS Metadata Rest API.",
         "keywords": ["NILU", "EBAS", "THREDDS", "OPeNDAP", "HTTPServer", "Data", "Catalog", "Metadata", "In-situ", "NRT", "Near Real-Time"],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/thredds.png", 
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/thredds.png", 
         "access_rights": "Open",
         "class": "Service"
     },
@@ -65,7 +65,7 @@
         "url": "https://github.com/actris-cloudnet/cloudnetpy",
         "description": "Cloudnetpy is a Python package for processing Cloud Remote Sensing data.",
         "keywords": ["CLU", "Python", "Cloudnet", "Data", "Processing", "Cloudnetpy", "Cloudnet data"],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/cloudnetpy.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/cloudnetpy.png",
         "access_rights": "Open",
         "class": "Tool"
     },
@@ -75,7 +75,7 @@
         "url": "https://github.com/actris-cloudnet/cloudnet-submit",
         "description": "Cloudnet-submit is a tool for submitting data to the ACTRIS Cloudnet data portal.",
         "keywords": ["CLU", "submit", "Cloudnet", "Data", "Cloudnet data", "Cloudnet-submit"],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/cloudnet-submit.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/cloudnet-submit.png",
         "access_rights": "Open",
         "class": "Tool"
     },
@@ -85,7 +85,7 @@
         "url": "https://www.icare.univ-lille.fr/",
         "description": "As part of the AERIS national infrastructure for Atmospheric Research, ICARE Data and Services Centre provides various services to support the research community in fields related to atmospheric research, such as aerosols, clouds, radiation, water cycle, and their interactions. ICARE’s initial emphasis is the production and distribution of remote sensing data derived from Earth observation missions from CNES, NASA, and EUMETSAT. ",
         "keywords": ["ICARE", "AERIS"],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/icare.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/icare.png",
         "access_rights": "Open",
         "class": "Service"
     },
@@ -95,7 +95,7 @@
         "url": "https://actris-ecac.eu/measurement-guidelines.html",
         "description": "Recommendations, guidelines, SOP and scientific articles for aerosol in situ measurements. The recommendations and guidelines are developed by the ACTRIS Central Facility, CAIS-ECAC (Center for Aerosol In-Situ -European Centre for Aerosol Calibration) and are based on the best practices and knowledge available in the field of aerosol in situ measurements.",
         "keywords": ["ECAC", "ACTRIS", "Recommendations", "Guidelines", "SOP", "Scientific articles", "Aerosol", "In-situ", "Measurements"],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/cais-ecac-recommendations.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/cais-ecac-recommendations.png",
         "access_rights": "Open",
         "class": "Service"
     },
@@ -105,7 +105,7 @@
         "url": "https://ebas-submit-tool.nilu.no/",
         "description": "A web based tool to check file formats for data submission to the EBAS database, which is the repository for ACTRIS In-Situ data. The tool checks the data files for compliance with the EBAS data format and provides feedback. ",
         "keywords": ["EBAS", "Data", "Submission", "Tool", "In-situ", "ACTRIS", "NILU"],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/ebas-data-submission-tool.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/ebas-data-submission-tool.png",
         "access_rights": "Open",
         "class": "Tool"
     },
@@ -115,7 +115,7 @@
         "url": "https://ebas-submit.nilu.no/",
         "description": "A manual for data submission to the EBAS database, which is the repository for ACTRIS In-Situ data. The manual provides guidance on how to prepare and submit data files to the EBAS database. ",
         "keywords": ["EBAS", "Data", "Submission", "Manual", "In-situ", "ACTRIS", "NILU"],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/ebas-data-submission-manual.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/ebas-data-submission-manual.png",
         "access_rights": "Open",
         "class": "Tool"
     },
@@ -125,7 +125,7 @@
         "url": "https://dust.aemet.es/products/daily-dust-products",
         "description": "Daily dust products from Barcelona Supercomputing Center (BSC), AEMET and WMO. This interactive visualisation tool allows you to access dust forecasts from different numerical models and dust-related observational products. ",
         "keywords": ["Dust", "Forecast", "Barcelona Supercomputing Center", "BSC", "AEMET", "WMO", "Dust products", "Observational products", "Numerical models"],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/bsc-daily-dust.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/bsc-daily-dust.png",
         "access_rights": "Open",
         "class": "Tool"
     },
@@ -135,7 +135,7 @@
         "url": "https://services.iagos-data.fr/atmo-access/timeseries",
         "description": "This service allows you to search, analyse and visualise data from three Atmosphere European Research Infrastructures. It has been implemented in the framework of the European Project ATMO-ACCESS to demonstrate interoperability within the Research Infrastructures",
         "keywords": ["ATMO-ACCESS", "Analysis", "Time-series", "Data", "Visualisation", "Interoperability", "Research Infrastructures"],
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/atmo-access-time-series-analysis.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/atmo-access-time-series-analysis.png",
         "access_rights": "Open",
         "class": "Service"
     }, 
@@ -145,7 +145,7 @@
         "url": "https://upload.earlinet.org/",
         "description": "The ACTRIS EARLINET Database Processor is a tool for uploading files, editing categories and download category-files to the EARLINET database, which is the repository for ACTRIS Aerosol Remote Sensing Data unit.",
         "keywords": ["EARLINET", "Data Upload", "Lidar", "Aerosol", "Data", "Submission", "ARES"],
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/earlinet-database-processor.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/earlinet-database-processor.png",
         "access_rights": "Restricted",
         "class": "Tool"
     }, 
@@ -155,7 +155,7 @@
         "url": "https://quicklooks.earlinet.org/",
         "description": "The EARLINET Quicklook Interface provides a user-friendly interface for quick visualization and analysis of near real-time lidar data from the European Aerosol Research Lidar Network (EARLINET). It allows researchers to easily access and explore lidar measurements, aiding in the interpretation and understanding of atmospheric aerosols.",
         "keywords": ["EARLINET", "Quicklook Interface", "Lidar", "Aerosol", "Data", "Visualization", "Analysis", "ARES", "NRT"],
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/earlinet-quicklook.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/earlinet-quicklook.png",
         "access_rights": "Open",
         "class": "Tool"
     },
@@ -165,7 +165,7 @@
         "url": "https://www.earlinet.org/index.php?id=281",
         "description": "The ACTRIS EARLINET Single Calculus Chain (SCC) is a centralized tool for the automatic analysis of aerosol lidar measurements. The development of this tool started in the framework of EARLINET-ASOS (European Aerosol Research Lidar Network – Advanced Sustainable Observation System), it was extended and still on going under the ACTRIS (Aerosol, Clouds and Trace gases Research InfraStructure Network) umbrella. The SCC is a major component of the ACTRIS Aeorosol Remote Sensing Node (ARES) responsible for the curation and the processing of the ACTRIS aerosol remote sensing data.",
         "keywords": ["ARES","EARLINET", "SCC", "Lidar", "Aerosol", "Data", "Processing", "Quality control", "Optical properties"],
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/earlinet-scc.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/earlinet-scc.png",
         "access_rights": "Open",
         "class": "Tool"
     },
@@ -295,7 +295,7 @@
         "url": "https://doi.org/10.5194/acp-13-4429-2013 ",
         "description": "The four-dimensional (4-D) distribution of the Eyjafjallajökull volcanic cloud in the troposphere over Europe as observed by ACTRIS/EARLINET during the entire volcanic event (15 April–26 May 2010) was investigated thanks to the optical properties directly measured (backscatter, extinction, and particle linear depolarization ratio) and stored in the ACTRIS ARES database. A specific relational database providing the volcanic mask over Europe, realized ad hoc for this specific event, has been developed and made available. ",
         "keywords": ["volcanic eruption", "4d distribution", "Aerosol", "Ash", "Lidar", "Profiling", "ARES" ],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/text_2000px_100416_mlt_klein.jpg",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/text_2000px_100416_mlt_klein.jpg",
         "access_rights": "Open",
         "class": "Product"
     },
@@ -305,7 +305,7 @@
         "url": " https://doi.org/10.57837/cnr-imaa/ares/actris-earlinet/level3/climatological/2000_2019/all",
         "description": "The Level 3 standard products contain climatological datasets obtained as aggregated products from the fully quality controlled (QC) aerosol optical products (i.e. Level 2 products). In order to avoid biases due to measurements made on purpose specifically for capturing special events, it is considered only subset of data corresponding to regular schedule and measurements done for satellite validation purposes.",
         "keywords": ["climatology", "4d distribution",  "Aerosol", "Lidar", "Profiling", "ARES"],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/csm_Level3_data_example.jpg",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/csm_Level3_data_example.jpg",
         "access_rights": "Open",
         "class": "Product"
     },
@@ -455,7 +455,7 @@
         "url": "https://voc-qc.nilu.no/",
         "description": "Web-based tool checking for VOC data",
         "keywords": ["", ""],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/thumbnail_ATVOCAT.jpg",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/thumbnail_ATVOCAT.jpg",
         "access_rights": "Restricted",
         "class": "Tool"
     },
@@ -465,7 +465,7 @@
         "url": "https://polybox.ethz.ch/index.php/s/uI9WdN81AluL7gO",
         "description": "Tutorial video for using @VOC@, the web-based tool checking for VOC data", 
         "keywords": ["", ""],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/tree/main/services/img/empa_voc_tutorial_video.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/main/services/img/empa_voc_tutorial_video.png",
         "access_rights": "Open",
         "class": "Tool"
     }
