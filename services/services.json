@@ -17,7 +17,7 @@
         "keywords": ["ACTRIS", "In-situ", "NRT", "Near Real-Time", "Data", "EBAS","NILU"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/actris-in-situ-nrt.png",
         "access_rights": "Open",
-        "class": "Service"
+        "class": "Visualisation tool"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
         "keywords": ["ACTRIS", "Metadata", "Rest API", "Access"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/actris-rest-api.png",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "API"
     },
     {
         "id": 4,
@@ -47,7 +47,7 @@
         "keywords": ["ATMO-ACCESS", "FLEXPART", "Model", "Aerosol", "Trace gas", "source apportionment", "footprint"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/flexpart-requests.png",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 6,
@@ -57,7 +57,7 @@
         "keywords": ["NILU", "EBAS", "THREDDS", "OPeNDAP", "HTTPServer", "Data", "Catalog", "Metadata", "In-situ", "NRT", "Near Real-Time"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/thredds.png", 
         "access_rights": "Open",
-        "class": "Service"
+        "class": "API"
     },
     {
         "id": 9,
@@ -67,7 +67,7 @@
         "keywords": ["CLU", "Python", "Cloudnet", "Data", "Processing", "Cloudnetpy", "Cloudnet data"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/cloudnetpy.png",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "Software"
     },
     {
         "id": 10,
@@ -77,7 +77,7 @@
         "keywords": ["CLU", "submit", "Cloudnet", "Data", "Cloudnet data", "Cloudnet-submit"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/cloudnet-submit.png",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "Software"
     },
     {
         "id": 11,
@@ -107,7 +107,7 @@
         "keywords": ["EBAS", "Data", "Submission", "Tool", "In-situ", "ACTRIS", "NILU"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/ebas-data-submission-tool.png",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "Service"
     },
     {
         "id": 14,
@@ -117,7 +117,7 @@
         "keywords": ["EBAS", "Data", "Submission", "Manual", "In-situ", "ACTRIS", "NILU"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/ebas-data-submission-manual.png",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "Service"
     },
     {
         "id": 15,
@@ -127,7 +127,7 @@
         "keywords": ["Dust", "Forecast", "Barcelona Supercomputing Center", "BSC", "AEMET", "WMO", "Dust products", "Observational products", "Numerical models"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/bsc-daily-dust.png",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "Data product"
     },
     {
         "id": 16,
@@ -137,7 +137,7 @@
         "keywords": ["ATMO-ACCESS", "Analysis", "Time-series", "Data", "Visualisation", "Interoperability", "Research Infrastructures"],
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/atmo-access-time-series-analysis.png",
         "access_rights": "Open",
-        "class": "Service"
+        "class": "Visualisation tool"
     }, 
     {
         "id": 17,
@@ -147,7 +147,7 @@
         "keywords": ["EARLINET", "Data Upload", "Lidar", "Aerosol", "Data", "Submission", "ARES"],
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/earlinet-database-processor.png",
         "access_rights": "Restricted",
-        "class": "Tool"
+        "class": "Service"
     }, 
     {
         "id": 18,
@@ -157,7 +157,7 @@
         "keywords": ["EARLINET", "Quicklook Interface", "Lidar", "Aerosol", "Data", "Visualization", "Analysis", "ARES", "NRT"],
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/earlinet-quicklook.png",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "Visualisation tool"
     },
     {
         "id": 19,
@@ -167,7 +167,7 @@
         "keywords": ["ARES","EARLINET", "SCC", "Lidar", "Aerosol", "Data", "Processing", "Quality control", "Optical properties"],
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/earlinet-scc.png",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "Service"
     },
     {
         "id": 20,
@@ -177,7 +177,7 @@
         "keywords": ["Climate variables", "Observations homogenization", "Dataset", "ACTRIS-FR", "AERIS/ESPRI"],
         "img_url": "",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 21,
@@ -187,7 +187,7 @@
         "keywords": ["GEISA", "Spectroscopic database",  "Line transition parameters", "Absorption cross sections", "Atmospheric aerosols", "LBRTM", "AERIS/ESPRI"],
         "img_url": "",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 22,
@@ -197,7 +197,7 @@
         "keywords": ["Cloud microphysics", "Cloud chambers", "ASC unit", "AERIS/ESPRI"],
         "img_url": "",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "Software"
     },
     {
         "id": 23,
@@ -207,7 +207,7 @@
         "keywords": ["Properties", "organic molecules", "Aerosol particles", "Chemical informatics", "ASC unit", "AERIS/ESPRI"],
         "img_url": "",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "Service"
     },
     {
         "id": 24,
@@ -217,7 +217,7 @@
         "keywords": ["Simulation", "Aerosol chambers", "Aerosol microphysics", "Chemistry", "ASC unit", "AERIS/ESPRI"],
         "img_url": "",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "Software"
     },
     {
         "id": 25,
@@ -227,7 +227,7 @@
         "keywords": ["Chemical reactions", "Simulation", "Modelling", "MCM", "ASC unit", "AERIS/ESPRI"],
         "img_url": "",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "Service"
     },
     {
         "id": 26,
@@ -237,7 +237,7 @@
         "keywords": ["Chemical reactions", "Complex simulations", "Modelling", "MCM", "ASC unit", "AERIS/ESPRI"],
         "img_url": "",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "Software"
     },
     {
         "id": 27,
@@ -267,13 +267,13 @@
         "keywords": ["ICARE", "AERIS"],
         "img_url": "https://dataviz.icare.univ-lille.fr/home/assets/geoview_snapshot.png",
         "access_rights": "Open",
-        "class": "Service"
+        "class": "Visualisation tool"
     },
     {
         "id": 30,
         "title": "VolcPlume portal",
         "url": "https://volcplume.aeris-data.fr/",
-        "description": "The VolcPlume Portal (https://volcplume.aeris-data.fr) is dedicated to the near-real time and retrospective tracking and analysis of the physico-chemical properties of volcanic plumes in the atmosphere, from the source to regional/global scales. The portal allows for jointly analysing a broad panel of satellite and ground-based active and passive remote sensing observations of both volcanic gas and particles, as well as in-situ ground air quality monitoring measurements to detect and isolate a volcanic plume signature down to the ground. Benefiting from developments favouring interactivity and flexibility, this portal thus aims to facilitate an in-depth assessment of the multi-scale atmospheric impacts of volcanic plumes that can include, depending on the type and magnitude of the eruption, modifications of the atmospheric chemistry, degradation of air quality, aviation hazards, and climate impacts. ",
+        "description": "The VolcPlume Portal (https://volcplume.aeris-data.fr) is dedicated to the near-real time and retrospective tracking and analysis of the physico-chemical properties of volcanic plumes in the atmosphere, from the source to regional/global scales. The portal allows for jointly analysing a broad panel of satellite and ground-based active and passive remote sensing observations of both volcanic gas and particles, as well as in-situ ground air quality monitoring measurements to detect and isolate a volcanic plume signature down to the ground. Benefiting from developments favouring interactivity and flexibility, this portal thus aims to facilitate an in-depth assessment of the multi-scale atmospheric impacts of volcanic plumes that can include, depending on the type and magnitude of the eruption, modifications of the atmospheric chemistry, degradation of air quality, aviation hazards, and climate impacts. ",
         "keywords": ["ICARE", "AERIS","VOLCPLUME","VOLCANO"],
         "img_url": "https://www.icare.univ-lille.fr/wp-content-icare/uploads/sites/27/2022/07/volcplume-portal.png",
         "access_rights": "Open",
@@ -287,7 +287,7 @@
         "keywords": ["ICARE", "AERIS", "ACSM"],
         "img_url": "https://dataviz.icare.univ-lille.fr/home/assets/acmcc_snapshot.png",
         "access_rights": "Open",
-        "class": "Service"
+        "class": "Visualisation tool"
     },
     {
         "id": 32,
@@ -297,7 +297,7 @@
         "keywords": ["volcanic eruption", "4d distribution", "Aerosol", "Ash", "Lidar", "Profiling", "ARES" ],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/text_2000px_100416_mlt_klein.jpg",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 33,
@@ -307,7 +307,7 @@
         "keywords": ["climatology", "4d distribution",  "Aerosol", "Lidar", "Profiling", "ARES"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/csm_Level3_data_example.jpg",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 34,
@@ -317,7 +317,7 @@
         "keywords": ["ACTRIS ARES", "Metadata", "Rest API", "Access", "ARES"],   
         "img_url": "",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "API"
     },
     {
         "id": 35,
@@ -327,7 +327,7 @@
         "keywords": ["CCN", "Aerosol", "Clouds", "Bas Henzing", "Helmi Keskinen", "Karine Sellegri", "Jurgita Ovadnevaite", "Aikaterini Bougiatioti", "Nikos Kalivitis", "Iasonas Stavroulas", "Anne Jefferson", "Minsu Park", "Patrick Schlag", "Adam Kristensson", "Yoko Iwamoto", "Kirsty Pringle", "Carly Reddington", "Pasi Aalto", "Mikko Äijälä", "Urs Baltensperger", "Jakub Bialek", "Wolfram Birmili", "Nicolas Bukowiecki", "Mikael Ehn", "Ann Mari Fjæraa", "Markus Fiebig", "Göran Frank", "Roman Fröhlich", "Arnoud Frumau", "Masaki Furuya", "Emanuel Hammer", "Liine Heikkinen", "Erik Herrmann", "Rupert Holzinger", "Hiroyuki Hyono", "Maria Kanakidou", "Astrid Kiendler-Scharr", "Kento Kinouchi", "Gerard Kos", "Markku Kulmala", "Nikolaos Mihalopoulos", "Ghislain Motos", "Athanasios Nenes", "Colin O'Dowd", "Mikhail Paramonov", "Tuukka Petäjä", "David Picard", "Laurent Poulain", "André Stephan Henry Prévôt", "Jay Slowik", "Andre Sonntag", "Erik Swietlicki", "Birgitta Svenningsson", "Hiroshi Tsurumaru", "Alfred Wiedensohler", "Cerina Wittbom", "John A. Ogren", "Atsushi Matsuki", "Seong Soo Yum", "Cathrine Lund Myhre", "Ken Carslaw", "Frank Stratmann", "Martin Gysel"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/sdata20173-f1%20(3).jpg",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 36,
@@ -337,7 +337,7 @@
         "keywords": ["cloud condensation nuclei", "CCN", "Tuukka Petäjä", "Maija K. Kajos", "Mikko Äijälä", "Heikki Junninen", "Thomas Holst", "Jonathan P. D. Abbatt", "Almut Arneth", "Wolfram Birmili", "Hugo Denier van der Gon", "Amar Hamed", "András Hoffer", "Lauri Laakso", "Ari Laaksonen", "W. Richard Leaitch", "Christian Plass-Dülmer", "Sara C. Pryor", "Petri Räisänen", "Erik Swietlicki", "Alfred Wiedensohler", "Douglas R. Worsnop", "Veli-Matti Kerminen", "Markku Kulmala"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/Warming-induced_increase_in_aerosol_number_concentration_likely_to_moderate_climate_change-ngeo1800.png",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 37,
@@ -347,7 +347,7 @@
         "keywords": ["Laj, P.", "Fjaeraa, A.-M.", "Sellegri, K.", "Birmili, W.", "Weingartner, E.", "Baltensperger, U.", "Zdimal, V.", "Zikova, N.", "Putaud, J.-P.", "Marinoni, A.", "Tunved, P.", "Hansson, H.-C.", "Fiebig, M.", "Kivekäs, N.", "Lihavainen, H.", "Asmi, E.", "Ulevicius, V.", "Aalto, P. P.", "Swietlicki, E.", "Kristensson, A.", "Mihalopoulos, N.", "Kalivitis, N.", "Kalapov, I.", "Kiss, G.", "de Leeuw, G.", "Henzing, B.", "Harrison, R. M.", "Beddows, D.", "O'Dowd, C.", "Jennings, S. G.", "Flentje, H.", "Weinhold, K.", "Meinhardt, F.", "Ries, L.", "Kulmala, M."],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/stations-asmi-et-al.png",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 38,
@@ -357,7 +357,7 @@
         "keywords": ["Asmi, A.", "Baltensperger, U.", "Bukowiecki, N.", "Day, D.", "Fiebig, M.", "Fjaeraa, A. M.", "Flentje, H.", "Hyvärinen, A.", "Jefferson, A.", "Jennings, S. G.", "Kouvarakis, G.", "Lihavainen, H.", "Lund Myhre, C.", "Malm, W. C.", "Mihapopoulos, N.", "Molenar, J. V.", "O'Dowd, C.", "Ogren, J. A.", "Schichtel, B. A.", "Sheridan, P.", "Virkkula, A.", "Weingartner, E.", "Weller, R.", "Laj, P."],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/mk-trends-coen-et-al.png",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 39,
@@ -367,7 +367,7 @@
         "keywords": ["Ogren, J. A.", "Andrews, E.", "Sheridan, P.", "Jefferson, A.", "Weingartner, E.", "Baltensperger, U.", "Bukowiecki, N.", "Lihavainen, H.", "Kivekäs, N.", "Asmi, E.", "Aalto, P. P.", "Kulmala, M.", "Wiedensohler, A.", "Birmili, W.", "Hamed, A.", "O'Dowd, C.", "Jennings, S. G.", "Weller, R.", "Flentje, H.", "Fjaeraa, A. M.", "Fiebig, M.", "Myhre, C. L.", "Hallar, A. G.", "Swietlicki, E.", "Kristensson, A.", "Laj, P."],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/tropos-trend-asmi-et-al.png",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 40,
@@ -377,7 +377,7 @@
         "keywords": ["Time series", "aec", "aethalometer", "arctic", "light-absorption", "aerosol", "absorption", "Aki Virkkula", "John A. Ogren", "Eija Asmi", "Sandra Starkweather", "Sangeeta Sharma", "Konstantinos Eleftheriadis", "Stergios Vratolis", "Taneil Uttal", "Peter Tunved", "Anne Jefferson", "Michael Bergin", "Alexander Makshtas", "Markus Fiebig"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/time_series_adaptive_var.png",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 41,
@@ -387,7 +387,7 @@
         "keywords": ["Van Bowersox", "Ribu Cherian", "Greg Faluvegi", "Hilde Fagerli", "Jenny Hand", "Zbigniew Klimont", "Corinne Galy-Lacaux", "Christopher M.B. Lehmann", "Cathrine Lund Myhre", "Gunnar Myhre", "Dirk Olivié", "Keiichi Sato", "Johannes Quaas", "P.S.P. Rao", "Michael Schulz", "Drew Shindell", "Ragnhild B. Skeie", "Ariel Stein", "Toshihiko Takemura", "Svetlana Tsyro", "Robert Vet", "Xiaobin Xu"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/gen2.png",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 42,
@@ -397,7 +397,7 @@
         "keywords": ["Amund Søvde Haslerud", "Ragnhild Bieltvedt Skeie", "Jan Griesfeller", "Stephen M. Platt", "Rajesh Kumar", "Cathrine Lund Myhre", "Michael Schulz"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/FIG_doi_map_stations.png",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 43,
@@ -407,7 +407,7 @@
         "keywords": ["Gloria Titos", "Lucas Alados-Arboledas", "Urs Baltensperger", "Derek Day", "Anne Jefferson", "Nikos Kalivitis", "Nikos Mihalopoulos", "James Sherman", "Junying Sun", "Ernest Weingartner", "Paul Zieger"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/map_fRH85_June2019.png",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 44,
@@ -417,7 +417,7 @@
         "keywords": ["Alastuey, A.", "Arsov, T. P.", "Backman, J.", "Brem, B. T.", "Bukowiecki, N.", "Couret, C.", "Eleftheriadis, K.", "Flentje, H.", "Fiebig, M.", "Gysel-Beer, M.", "Hand, J. L.", "Hoffer, A.", "Hooda, R.", "Hueglin, C.", "Joubert, W.", "Keywood, M.", "Kim, J. E.", "Kim, S.-W.", "Labuschagne, C.", "Lin, N.-H.", "Lin, Y.", "Lund Myhre, C.", "Luoma, K.", "Lyamani, H.", "Marinoni, A.", "Mayol-Bracero, O. L.", "Mihalopoulos, N.", "Pandolfi, M.", "Prats, N.", "Prenni, A. J.", "Putaud, J.-P.", "Ries, L.", "Reisen, F.", "Sellegri, K.", "Sharma, S.", "Sheridan, P.", "Sherman, J. P.", "Sun, J.", "Titos, G.", "Torres, E.", "Tuch, T.", "Weller, R.", "Wiedensohler, A.", "Zieger, P.", "Laj, P."],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/figure-collaud.png",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 45,
@@ -427,7 +427,7 @@
         "keywords": ["Clémence Rose", "Elisabeth Andrews", "Cathrine Lund Myhre", "Martine Collaud Coen", "Yong Lin", "Alfred Wiedensohler", "Michael Schultz", "John A. Ogren", "Markus Fiebig", "Jonas Gliß", "Augustin Mortier", "Marco Pandolfi", "Tuukka Petäjä", "Sang-Woo Kim", "Wenche Aas", "Jean-Phillipe Putaud", "Olga Mayol-Bracero", "Melita Keywood", "Lorenzo Labrador", "Pasi Aalto", "Erik Ahlberg", "Lucas Alados Arboledas", "Andrés Alastuey", "Marcos Andrade", "Begoña Artíñano", "Stina Ausmeel", "Todor Arsov", "Eija Asmi", "John Backman", "Urs Baltensperger", "Susanne Bastian", "Olaf Bath", "Johan Paul Beukes", "Benjamin T. Brem", "Nicolas Bukowiecki", "Sébastien Conil", "Cedric Couret", "Derek Day", "Wan Dayantolis", "Anna Degorska", "Konstantinos Eleftheriadis", "Prodromos Fetfatzis", "Olivier Favez", "Harald Flentje", "Maria I. Gini", "Asta Gregorič", "Martin Gysel-Beer", "A. Gannet Hallar", "Jenny Hand", "Andras Hoffer", "Christoph Hueglin", "Rakesh K. Hooda", "Antti Hyvärinen", "Ivo Kalapov", "Nikos Kalivitis", "Anne Kasper-Giebl", "Jeong Eun Kim", "Giorgos Kouvarakis", "Irena Kranjc", "Radovan Krejci", "Markku Kulmala", "Casper Labuschagne", "Hae-Jung Lee", "Heikki Lihavainen", "Neng-Huei Lin", "Gunter Löschau", "Krista Luoma", "Angela Marinoni", "Sebastiao Martins Dos Santos", "Frank Meinhardt", "Maik Merkel", "Jean-Marc Metzger", "Nikolaos Mihalopoulos", "Nhat Anh Nguyen", "Jakub Ondracek", "Noemi Peréz", "Maria Rita Perrone", "Jean-Eudes Petit", "David Picard", "Jean-Marc Pichon", "Véronique Pont", "Natalia Prats", "Anthony Prenni", "Fabienne Reisen", "Salvatore Romano", "Karine Sellegri", "Sangeeta Sharma", "Gerhard Schauer", "Patrick Sheridan", "James Patrick Sherman", "Maik Schütze", "Andreas Schwerin", "Ralf Sohmer", "Mar Sorribas", "Martin Steinbacher", "Junying Sun", "Gloria Titos", "Barbara Tokzko", "Thomas Tuch", "Pierre Tulet", "Peter Tunved", "Ville Vakkari", "Fernando Velarde", "Patricio Velasquez", "Paolo Villani", "Sterios Vratolis", "Sheng-Hsiang Wang", "Kay Weinhold", "Rolf Weller", "Margarita Yela", "Jesus Yus-Diez", "Vladimir Zdimal", "Paul Zieger", "Nadezda Zikova"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/SARGAN_Fig1_Map_91sites_pos_53AbsScaInRed.png",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 46,
@@ -437,7 +437,7 @@
         "keywords": ["Eckhardt, S.", "Lund Myhre, C.", "Laj, P.", "Alados-Arboledas, L.", "Backman, J.", "Brem, B. T.", "Fiebig, M.", "Flentje, H.", "Marinoni, A.", "Pandolfi, M.", "Yus-Dìez, J.", "Prats, N.", "Putaud, J. P.", "Sellegri, K.", "Sorribas, M.", "Eleftheriadis, K.", "Vratolis, S.", "Wiedensohler, A.", "Stohl, A"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/fig6.png",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 47,
@@ -447,7 +447,7 @@
         "keywords": ["COVIS-19", "Pandemic", "Data", "Aerosol", "Cloud", "Trace gases", "Europe"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/map_Europe_3DCs_sites_pos_withoutLegend.png",
         "access_rights": "Open",
-        "class": "Product"
+        "class": "Data product"
     },
     {
         "id": 48,
@@ -457,7 +457,7 @@
         "keywords": ["EMPA", "QC"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/thumbnail_ATVOCAT.jpg",
         "access_rights": "Restricted",
-        "class": "Tool"
+        "class": "Visualisation tool"
     },
     {
         "id": 49,
@@ -467,6 +467,6 @@
         "keywords": ["EMPA", "QC"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/empa_voc_tutorial_video.png",
         "access_rights": "Open",
-        "class": "Tool"
+        "class": "Service"
     }
 ]
