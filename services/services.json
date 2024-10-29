@@ -533,8 +533,8 @@
         "url": "https://doi.org/10.21336/gen.682q-8163",
         "url_data": "",
         "url_policy": "",
-        "description": "This data collection contains measurements of aerosol, cloud and trace gases properties across Europe measured during the Covid-19 lockdown period 1 January 2020 - 31 May 2020. Data are compiled and made available by the ACTRIS Data Centre units, which include In Situ data centre unit (In-Situ), Aerosol remote sensing data centre unit (ARES), Cloud remote sensing data centre unit (CLU) and Data Discovery, Virtual Access and Services unit (DVAS). ",
-        "keywords": ["aerosol in situ", "cloud in situ", "reactive trace gases in situ", "aerosol remote sensing","cloud remote sensing","COVIS-19", "Pandemic", "Data", "Aerosol", "Cloud", "Trace gases", "Europe"],   
+        "description": "This data collection contains measurements of aerosol, cloud and trace gases properties across Europe measured during the Covid-19 lockdown period 1 January 2020 - 31 May 2020. Data are compiled and made available by the ACTRIS Data Centre units.",
+        "keywords": ["aerosol in situ", "reactive trace gases in situ", "aerosol remote sensing","cloud remote sensing","COVIS-19", "Pandemic", "Data", "Aerosol", "Cloud", "Trace gases", "Europe"],   
         "img_url": "https://actris.nilu.no/Content/Documents/Images/map_Europe_3DCs_sites_pos_withoutLegend.png",
         "access_rights": "Open",
         "class": "Data product"
