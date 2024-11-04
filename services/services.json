@@ -538,5 +538,17 @@
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/empa_voc_tutorial_video.png",
         "access_rights": "Open",
         "class": "Service"
+    },
+    {
+        "id": 50,
+        "title": "ACTRIS ARES Data Portal",
+        "url": "https://data.earlinet.org",
+        "url_data": "",
+        "url_policy": "https://www.actris.eu/sites/default/files/inline-files/ACTRIS_ERIC_GA_approved_ACTRIS_data_policy.pdf",
+        "description": "Web application providing ACTRIS ARES data and products.",
+        "keywords": ["ACTRIS ARES", "Metadata", "Access", "ARES", "aerosol remote sensing"],   
+        "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/ares-data-portal.png",
+        "access_rights": "Open",
+        "class": "Visualisation tool"
     }
 ]
