@@ -560,7 +560,7 @@
         "description": "MWRpy is a standalone Python package for Microwave Radiometer (MWR) data processing. It is implemented in the ACTRIS Cloud Remote Sensing (CRS) data centre unit CLU, and used in the production chain of the cloud classification algorithm Cloudnet.",
         "keywords": ["CLU", "Python", "Cloudnet", "Data", "Processing", "MWRpy", "Microwave Radiometer", "Remote Sensing"],
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/f348ae0f1a6e55fdd61f511e925e00f29d3bc38c/services/img/MWRpy.png",
-        "access_rights": "Open, Restricted",
-        "class": "Tool, Product, Document"
+        "access_rights": "Open",
+        "class": "Software"
     }
 ]
