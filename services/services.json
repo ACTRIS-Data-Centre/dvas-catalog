@@ -586,5 +586,17 @@
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/clu-api.png",
         "access_rights": "Open",
         "class": "API"
+    },
+    {
+        "id": 54,
+        "title": "NAOK Pilot Training",
+        "url": "https://actris.cz/web/pilot-training-application-form/",
+        "url_data": "",
+        "url_policy": "",
+        "description": "Click the registration link for the NAOK Pilot Training to secure your spot, access detailed program information, and submit your application. During the course, you will gain valuable insights into key areas of atmospheric science, including research infrastructures at NAOK, air quality, atmospheric aerosols (with a focus on carbonaceous aerosols), persistent organic pollutants (POPs), volatile organic compounds (VOCs), ICOS atmospheric and ecosystem stations, and remote sensing methods.",
+        "keywords": ["ATMO-ACCESS", "NAOK", "online training", "videos"],
+        "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/NAOK_pilot_training.jpg",
+        "access_rights": "Restricted",
+        "class": "Service"
     }
 ]
