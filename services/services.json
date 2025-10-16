@@ -26,7 +26,7 @@
     {
         "id": 3,
         "title": "ACTRIS metadata catalog REST API",
-        "url": "https://prod-actris-md.nilu.no/index.html",
+        "url": "https://prod-actris-md2.nilu.no/index.html",
         "url_data": "",
         "url_policy": "",
         "description": "Machine-to-machine access to ACTRIS data and products through the REST API. The API is currently undergoing upgrades. You might experience some timeouts.",
@@ -593,7 +593,7 @@
         "url": "https://actris.cz/web/pilot-training-application-form/",
         "url_data": "",
         "url_policy": "",
-        "description": "Click the registration link for the NAOK Pilot Training to secure your spot, access detailed program information, and submit your application. During the course, you will gain valuable insights into key areas of atmospheric science, including research infrastructures at NAOK, air quality, atmospheric aerosols (with a focus on carbonaceous aerosols), persistent organic pollutants (POPs), volatile organic compounds (VOCs), ICOS atmospheric and ecosystem stations, and remote sensing methods.",
+        "description": "Click the access link for the NAOK Pilot Training to secure your spot, access detailed program information, and submit your application. During the course, you will gain valuable insights into key areas of atmospheric science, including research infrastructures at NAOK, air quality, atmospheric aerosols (with a focus on carbonaceous aerosols), persistent organic pollutants (POPs), volatile organic compounds (VOCs), ICOS atmospheric and ecosystem stations, and remote sensing methods.",
         "keywords": ["ATMO-ACCESS", "NAOK", "online training", "videos"],
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/NAOK_pilot_training.jpg",
         "access_rights": "Restricted",
