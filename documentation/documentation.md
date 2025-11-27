@@ -12,7 +12,7 @@
 
 **ACTRIS trace gases remote sensing data centre unit (GRES)**
 
-[Data access and file format documentation](https://gres.aeris-data.fr/documents/)
+[Data access and file format documentation](https://gres-aeris.ipsl.fr/)
 
 **ACTRIS Atmospheric simulation chamber data centre unit (ASC)**
 
