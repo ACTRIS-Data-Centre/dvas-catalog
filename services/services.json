@@ -350,7 +350,7 @@
     {
         "id": 34,
         "title": "ACTRIS ARES metadata catalog REST API",
-        "url": "https://data.earlinet.org/api/services/restapi?_wadl",
+        "url": "https://api.actris-ares.eu/api/swagger-ui/",
         "url_data": "",
         "url_policy": "https://www.actris.eu/sites/default/files/inline-files/ACTRIS_ERIC_GA_approved_ACTRIS_data_policy.pdf",
         "description": "Machine-to-machine access to ACTRIS ARES data and products through the REST API. ",
@@ -542,7 +542,7 @@
     {
         "id": 50,
         "title": "ACTRIS ARES Data Portal",
-        "url": "https://data.earlinet.org",
+        "url": "https://data.actris-ares.eu",
         "url_data": "",
         "url_policy": "https://www.actris.eu/sites/default/files/inline-files/ACTRIS_ERIC_GA_approved_ACTRIS_data_policy.pdf",
         "description": "Web application providing ACTRIS ARES data and products.",
