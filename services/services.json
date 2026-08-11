@@ -182,7 +182,7 @@
     {
         "id": 18,
         "title": "Aerosol Remote Sensing Quicklook Interface",
-        "url": "https://quicklooks.earlinet.org/",
+        "url": "https://quicklooks.actris-ares.eu/",
         "url_data": "",
         "url_policy": "https://www.actris.eu/sites/default/files/inline-files/ACTRIS_ERIC_GA_approved_ACTRIS_data_policy.pdf",
         "description": "A Quicklook Interface providing an interface for visualization and analysis of near real-time (NRT) lidar data from ACTRIS ARES (EARLINET) database. It allows researchers to easily access and explore lidar measurements, aiding in the interpretation and understanding of atmospheric aerosols.",
@@ -367,7 +367,7 @@
         "url_policy": "ftp://ebas-secondary-data.nilu.no/pub/ebas-secondary-data/Schmale_et_2016/",
         "description": "By Julia Schmale, Silvia Henning et al. (2017):  Scientific Data, doi:10.1038/sdata.2017.3",
         "keywords": ["cloud remote sensing", "aerosol in situ", "CCN", "Aerosol", "Clouds", "Bas Henzing", "Helmi Keskinen", "Karine Sellegri", "Jurgita Ovadnevaite", "Aikaterini Bougiatioti", "Nikos Kalivitis", "Iasonas Stavroulas", "Anne Jefferson", "Minsu Park", "Patrick Schlag", "Adam Kristensson", "Yoko Iwamoto", "Kirsty Pringle", "Carly Reddington", "Pasi Aalto", "Mikko Äijälä", "Urs Baltensperger", "Jakub Bialek", "Wolfram Birmili", "Nicolas Bukowiecki", "Mikael Ehn", "Ann Mari Fjæraa", "Markus Fiebig", "Göran Frank", "Roman Fröhlich", "Arnoud Frumau", "Masaki Furuya", "Emanuel Hammer", "Liine Heikkinen", "Erik Herrmann", "Rupert Holzinger", "Hiroyuki Hyono", "Maria Kanakidou", "Astrid Kiendler-Scharr", "Kento Kinouchi", "Gerard Kos", "Markku Kulmala", "Nikolaos Mihalopoulos", "Ghislain Motos", "Athanasios Nenes", "Colin O'Dowd", "Mikhail Paramonov", "Tuukka Petäjä", "David Picard", "Laurent Poulain", "André Stephan Henry Prévôt", "Jay Slowik", "Andre Sonntag", "Erik Swietlicki", "Birgitta Svenningsson", "Hiroshi Tsurumaru", "Alfred Wiedensohler", "Cerina Wittbom", "John A. Ogren", "Atsushi Matsuki", "Seong Soo Yum", "Cathrine Lund Myhre", "Ken Carslaw", "Frank Stratmann", "Martin Gysel"],   
-        "img_url": "https://actris.nilu.no/Content/Documents/Images/sdata20173-f1%20(3).jpg",
+        "img_url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsdata.2017.3/MediaObjects/41597_2017_Article_BFsdata20173_Fig1_HTML.jpg",
         "access_rights": "Open",
         "class": "Data product"
     },
@@ -391,7 +391,7 @@
         "url_policy": "",
         "description": "By Asmi, A., Wiedensohler, A. et al. (2011):  Atmospheric Chemistry and Physics, DOI:10.5194/acp-11-5505-2011.",
         "keywords": ["aerosol in situ", "Laj, P.", "Fjaeraa, A.-M.", "Sellegri, K.", "Birmili, W.", "Weingartner, E.", "Baltensperger, U.", "Zdimal, V.", "Zikova, N.", "Putaud, J.-P.", "Marinoni, A.", "Tunved, P.", "Hansson, H.-C.", "Fiebig, M.", "Kivekäs, N.", "Lihavainen, H.", "Asmi, E.", "Ulevicius, V.", "Aalto, P. P.", "Swietlicki, E.", "Kristensson, A.", "Mihalopoulos, N.", "Kalivitis, N.", "Kalapov, I.", "Kiss, G.", "de Leeuw, G.", "Henzing, B.", "Harrison, R. M.", "Beddows, D.", "O'Dowd, C.", "Jennings, S. G.", "Flentje, H.", "Weinhold, K.", "Meinhardt, F.", "Ries, L.", "Kulmala, M."],   
-        "img_url": "https://actris.nilu.no/Content/Documents/Images/stations-asmi-et-al.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/49abec6e5414631191a125b7b39bd503777fd502/services/img/stations-asmi-et-al.png",
         "access_rights": "Open",
         "class": "Data product"
     },
@@ -403,7 +403,7 @@
         "url_policy": "ftp://ebas-secondary-data.nilu.no/pub/ebas-secondary-data/Coen_et_al_2013/Read_me.pdf",
         "description": "By Collaud Coen, M., Andrews, E. et al. (2013):  Atmospheric Chemistry and Physics, DOI:10.5194/acp-13-869-2013.",
         "keywords": ["aerosol in situ", "Asmi, A.", "Baltensperger, U.", "Bukowiecki, N.", "Day, D.", "Fiebig, M.", "Fjaeraa, A. M.", "Flentje, H.", "Hyvärinen, A.", "Jefferson, A.", "Jennings, S. G.", "Kouvarakis, G.", "Lihavainen, H.", "Lund Myhre, C.", "Malm, W. C.", "Mihapopoulos, N.", "Molenar, J. V.", "O'Dowd, C.", "Ogren, J. A.", "Schichtel, B. A.", "Sheridan, P.", "Virkkula, A.", "Weingartner, E.", "Weller, R.", "Laj, P."],   
-        "img_url": "https://actris.nilu.no/Content/Documents/Images/mk-trends-coen-et-al.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/c5cd25c5d90ac9a0f3232c33419be45e1b4a71b7/services/img/mk-trends-coen-et-al.png",
         "access_rights": "Open",
         "class": "Data product"
     },
@@ -415,7 +415,7 @@
         "url_policy": "ftp://ebas-secondary-data.nilu.no/pub/ebas-secondary-data/Asmi_et_al_2013/",
         "description": "By Asmi, A., Collaud Coen, M. et al. (2013)  Atmospheric Chemistry and Physics, DOI:10.5194/acp-13-895-2013.",
         "keywords": ["aerosol in situ", "Ogren, J. A.", "Andrews, E.", "Sheridan, P.", "Jefferson, A.", "Weingartner, E.", "Baltensperger, U.", "Bukowiecki, N.", "Lihavainen, H.", "Kivekäs, N.", "Asmi, E.", "Aalto, P. P.", "Kulmala, M.", "Wiedensohler, A.", "Birmili, W.", "Hamed, A.", "O'Dowd, C.", "Jennings, S. G.", "Weller, R.", "Flentje, H.", "Fjaeraa, A. M.", "Fiebig, M.", "Myhre, C. L.", "Hallar, A. G.", "Swietlicki, E.", "Kristensson, A.", "Laj, P."],   
-        "img_url": "https://actris.nilu.no/Content/Documents/Images/tropos-trend-asmi-et-al.png",
+        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/aa247fc64946239492d4cfa7148d81150430da40/services/img/tropos-trend-asmi-et-al.png",
         "access_rights": "Open",
         "class": "Data product"
     },
@@ -427,7 +427,7 @@
         "url_policy": "",
         "description": "By John Backman*, Lauren Schmeisser et al. (2017)",
         "keywords": ["aerosol in situ", "Time series", "aec", "aethalometer", "arctic", "light-absorption", "aerosol", "absorption", "Aki Virkkula", "John A. Ogren", "Eija Asmi", "Sandra Starkweather", "Sangeeta Sharma", "Konstantinos Eleftheriadis", "Stergios Vratolis", "Taneil Uttal", "Peter Tunved", "Anne Jefferson", "Michael Bergin", "Alexander Makshtas", "Markus Fiebig"],   
-        "img_url": "https://actris.nilu.no/Content/Documents/Images/time_series_adaptive_var.png",
+        "img_url": "https://data.actris.eu/static/img/content/time_series_adaptive_var.png",
         "access_rights": "Open",
         "class": "Data product"
     },
@@ -439,7 +439,7 @@
         "url_policy": "",
         "description": "By Wenche Aas*, Augustin Mortier et al. https://doi.org/10.21336/gen.2",
         "keywords": ["reactive trace gases in situ","Van Bowersox", "Ribu Cherian", "Greg Faluvegi", "Hilde Fagerli", "Jenny Hand", "Zbigniew Klimont", "Corinne Galy-Lacaux", "Christopher M.B. Lehmann", "Cathrine Lund Myhre", "Gunnar Myhre", "Dirk Olivié", "Keiichi Sato", "Johannes Quaas", "P.S.P. Rao", "Michael Schulz", "Drew Shindell", "Ragnhild B. Skeie", "Ariel Stein", "Toshihiko Takemura", "Svetlana Tsyro", "Robert Vet", "Xiaobin Xu"],   
-        "img_url": "https://actris.nilu.no/Content/Documents/Images/gen2.png",
+        "img_url": "https://data.actris.eu/static/img/content/map_sites.png",
         "access_rights": "Open",
         "class": "Data product"
     },
@@ -451,7 +451,7 @@
         "url_policy": "",
         "description": "By Marianne Tronstad Lund*, Gunnar Myhre et al. https://doi.org/10.21336/gen.3",
         "keywords": ["aerosol in situ", "Amund Søvde Haslerud", "Ragnhild Bieltvedt Skeie", "Jan Griesfeller", "Stephen M. Platt", "Rajesh Kumar", "Cathrine Lund Myhre", "Michael Schulz"],   
-        "img_url": "https://actris.nilu.no/Content/Documents/Images/FIG_doi_map_stations.png",
+        "img_url": "https://data.actris.eu/static/img/content/FIG_doi_map_stations.png",
         "access_rights": "Open",
         "class": "Data product"
     },
@@ -463,7 +463,7 @@
         "url_policy": "",
         "description": "By Maria A. Burgos*, Elisabeth Andrews et al. https://doi.org/10.21336/gen.4",
         "keywords": ["aerosol in situ", "Gloria Titos", "Lucas Alados-Arboledas", "Urs Baltensperger", "Derek Day", "Anne Jefferson", "Nikos Kalivitis", "Nikos Mihalopoulos", "James Sherman", "Junying Sun", "Ernest Weingartner", "Paul Zieger"],   
-        "img_url": "https://actris.nilu.no/Content/Documents/Images/map_fRH85_June2019.png",
+        "img_url": "https://data.actris.eu/static/img/content/map_fRH85_June2019.png",
         "access_rights": "Open",
         "class": "Data product"
     },
@@ -475,7 +475,7 @@
         "url_policy": "",
         "description": "By Collaud Coen, M., Andrews, E. et al.: Multidecadal time series of in-situ aerosol radiative properties from 52 stations around the world https://doi.org/10.21336/c4dy-yw57",
         "keywords": ["aerosol in situ", "Alastuey, A.", "Arsov, T. P.", "Backman, J.", "Brem, B. T.", "Bukowiecki, N.", "Couret, C.", "Eleftheriadis, K.", "Flentje, H.", "Fiebig, M.", "Gysel-Beer, M.", "Hand, J. L.", "Hoffer, A.", "Hooda, R.", "Hueglin, C.", "Joubert, W.", "Keywood, M.", "Kim, J. E.", "Kim, S.-W.", "Labuschagne, C.", "Lin, N.-H.", "Lin, Y.", "Lund Myhre, C.", "Luoma, K.", "Lyamani, H.", "Marinoni, A.", "Mayol-Bracero, O. L.", "Mihalopoulos, N.", "Pandolfi, M.", "Prats, N.", "Prenni, A. J.", "Putaud, J.-P.", "Ries, L.", "Reisen, F.", "Sellegri, K.", "Sharma, S.", "Sheridan, P.", "Sherman, J. P.", "Sun, J.", "Titos, G.", "Torres, E.", "Tuch, T.", "Weller, R.", "Wiedensohler, A.", "Zieger, P.", "Laj, P."],   
-        "img_url": "https://actris.nilu.no/Content/Documents/Images/figure-collaud.png",
+        "img_url": "https://data.actris.eu/static/img/content/figure-collaud.png",
         "access_rights": "Open",
         "class": "Data product"
     },
@@ -487,7 +487,7 @@
         "url_policy": "",
         "description": "By Paolo Laj*, Alessandro Bigi et al.  https://doi.org/10.21336/7f34-8j17",
         "keywords": ["aerosol in situ", "Clémence Rose", "Elisabeth Andrews", "Cathrine Lund Myhre", "Martine Collaud Coen", "Yong Lin", "Alfred Wiedensohler", "Michael Schultz", "John A. Ogren", "Markus Fiebig", "Jonas Gliß", "Augustin Mortier", "Marco Pandolfi", "Tuukka Petäjä", "Sang-Woo Kim", "Wenche Aas", "Jean-Phillipe Putaud", "Olga Mayol-Bracero", "Melita Keywood", "Lorenzo Labrador", "Pasi Aalto", "Erik Ahlberg", "Lucas Alados Arboledas", "Andrés Alastuey", "Marcos Andrade", "Begoña Artíñano", "Stina Ausmeel", "Todor Arsov", "Eija Asmi", "John Backman", "Urs Baltensperger", "Susanne Bastian", "Olaf Bath", "Johan Paul Beukes", "Benjamin T. Brem", "Nicolas Bukowiecki", "Sébastien Conil", "Cedric Couret", "Derek Day", "Wan Dayantolis", "Anna Degorska", "Konstantinos Eleftheriadis", "Prodromos Fetfatzis", "Olivier Favez", "Harald Flentje", "Maria I. Gini", "Asta Gregorič", "Martin Gysel-Beer", "A. Gannet Hallar", "Jenny Hand", "Andras Hoffer", "Christoph Hueglin", "Rakesh K. Hooda", "Antti Hyvärinen", "Ivo Kalapov", "Nikos Kalivitis", "Anne Kasper-Giebl", "Jeong Eun Kim", "Giorgos Kouvarakis", "Irena Kranjc", "Radovan Krejci", "Markku Kulmala", "Casper Labuschagne", "Hae-Jung Lee", "Heikki Lihavainen", "Neng-Huei Lin", "Gunter Löschau", "Krista Luoma", "Angela Marinoni", "Sebastiao Martins Dos Santos", "Frank Meinhardt", "Maik Merkel", "Jean-Marc Metzger", "Nikolaos Mihalopoulos", "Nhat Anh Nguyen", "Jakub Ondracek", "Noemi Peréz", "Maria Rita Perrone", "Jean-Eudes Petit", "David Picard", "Jean-Marc Pichon", "Véronique Pont", "Natalia Prats", "Anthony Prenni", "Fabienne Reisen", "Salvatore Romano", "Karine Sellegri", "Sangeeta Sharma", "Gerhard Schauer", "Patrick Sheridan", "James Patrick Sherman", "Maik Schütze", "Andreas Schwerin", "Ralf Sohmer", "Mar Sorribas", "Martin Steinbacher", "Junying Sun", "Gloria Titos", "Barbara Tokzko", "Thomas Tuch", "Pierre Tulet", "Peter Tunved", "Ville Vakkari", "Fernando Velarde", "Patricio Velasquez", "Paolo Villani", "Sterios Vratolis", "Sheng-Hsiang Wang", "Kay Weinhold", "Rolf Weller", "Margarita Yela", "Jesus Yus-Diez", "Vladimir Zdimal", "Paul Zieger", "Nadezda Zikova"],   
-        "img_url": "https://actris.nilu.no/Content/Documents/Images/SARGAN_Fig1_Map_91sites_pos_53AbsScaInRed.png",
+        "img_url": "https://data.actris.eu/static/img/content/SARGAN_Fig1_Map_91sites_pos_53AbsScaInRed.png",
         "access_rights": "Open",
         "class": "Data product"
     },
@@ -499,7 +499,7 @@
         "url_policy": "",
         "description": "By Evangeliou, N., Platt, S. M. et al.: Changes in black carbon emissions over Europe due to COVID-19 lockdown https://doi.org/10.21336/gen.b5vj-sn33",
         "keywords": ["aerosol in situ", "Eckhardt, S.", "Lund Myhre, C.", "Laj, P.", "Alados-Arboledas, L.", "Backman, J.", "Brem, B. T.", "Fiebig, M.", "Flentje, H.", "Marinoni, A.", "Pandolfi, M.", "Yus-Dìez, J.", "Prats, N.", "Putaud, J. P.", "Sellegri, K.", "Sorribas, M.", "Eleftheriadis, K.", "Vratolis, S.", "Wiedensohler, A.", "Stohl, A"],   
-        "img_url": "https://actris.nilu.no/Content/Documents/Images/fig6.png",
+        "img_url": "https://data.actris.eu/static/img/content/fig6.png",
         "access_rights": "Open",
         "class": "Data product"
     },
@@ -511,7 +511,7 @@
         "url_policy": "",
         "description": "This data collection contains measurements of aerosol, cloud and trace gases properties across Europe measured during the Covid-19 lockdown period 1 January 2020 – 31 May 2020. Data are compiled and made available by the ACTRIS Data Centre units.",
         "keywords": ["aerosol in situ", "reactive trace gases in situ", "aerosol remote sensing","cloud remote sensing","COVIS-19", "Pandemic", "Data", "Aerosol", "Cloud", "Trace gases", "Europe"],   
-        "img_url": "https://actris.nilu.no/Content/Documents/Images/map_Europe_3DCs_sites_pos_withoutLegend.png",
+        "img_url": "https://data.actris.eu/static/img/content/map_Europe_3DCs_sites_pos_withoutLegend.png",
         "access_rights": "Open",
         "class": "Data product"
     },
@@ -610,6 +610,18 @@
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/providentia.png",
         "access_rights": "Open",
         "class": "Software"
+    }
+        {
+        "id": 56,
+        "title": "IRISCC - Wildfire service",
+        "url": "https://tools.actris-ares.eu/wildfireservice/",
+        "url_data": "",
+        "url_policy": "",
+        "description": "The Wildfire Demo Service provides integrated access to multi-source atmospheric data and modelling tools to analyse and monitor wildfire emissions across Europe. With key features such as: Integrated Data Access, 4D Wildfire Plume Analysis, Historical Wildfire Analysis, Wildfire Alert & Forecast Tools and a Virtual Research Environment (VRE)",
+        "keywords": ["IRISCC", "wilfire", "alert", "NRT","Demonstrator"],
+        "img_url": "https://tools.actris-ares.eu/wp-content/uploads/2025/07/Tavola1-275x300.png",
+        "access_rights": "Open",
+        "class": "Service"
     }
 
 ]
