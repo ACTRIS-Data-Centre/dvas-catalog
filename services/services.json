@@ -610,7 +610,7 @@
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/providentia.png",
         "access_rights": "Open",
         "class": "Software"
-    }
+    },
         {
         "id": 56,
         "title": "IRISCC - Wildfire service",
