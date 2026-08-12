@@ -1,13 +1,13 @@
 # Releases
 
-/*
+<!--
 This is the convention for how the headers should be written, add hierarchically with newest on top.
 
 # Major release vX.0.0
 # Minor release vX.Y.0
 # Patch release vX.Y.Z
+-->
 
-*/
 
 # Major release v2.0.0
 
