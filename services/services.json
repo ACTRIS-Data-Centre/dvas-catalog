@@ -391,7 +391,7 @@
         "url_policy": "",
         "description": "By Asmi, A., Wiedensohler, A. et al. (2011):  Atmospheric Chemistry and Physics, DOI:10.5194/acp-11-5505-2011.",
         "keywords": ["aerosol in situ", "Laj, P.", "Fjaeraa, A.-M.", "Sellegri, K.", "Birmili, W.", "Weingartner, E.", "Baltensperger, U.", "Zdimal, V.", "Zikova, N.", "Putaud, J.-P.", "Marinoni, A.", "Tunved, P.", "Hansson, H.-C.", "Fiebig, M.", "Kivekäs, N.", "Lihavainen, H.", "Asmi, E.", "Ulevicius, V.", "Aalto, P. P.", "Swietlicki, E.", "Kristensson, A.", "Mihalopoulos, N.", "Kalivitis, N.", "Kalapov, I.", "Kiss, G.", "de Leeuw, G.", "Henzing, B.", "Harrison, R. M.", "Beddows, D.", "O'Dowd, C.", "Jennings, S. G.", "Flentje, H.", "Weinhold, K.", "Meinhardt, F.", "Ries, L.", "Kulmala, M."],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/49abec6e5414631191a125b7b39bd503777fd502/services/img/stations-asmi-et-al.png",
+        "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/stations-asmi-et-al.png",
         "access_rights": "Open",
         "class": "Data product"
     },
@@ -403,7 +403,7 @@
         "url_policy": "ftp://ebas-secondary-data.nilu.no/pub/ebas-secondary-data/Coen_et_al_2013/Read_me.pdf",
         "description": "By Collaud Coen, M., Andrews, E. et al. (2013):  Atmospheric Chemistry and Physics, DOI:10.5194/acp-13-869-2013.",
         "keywords": ["aerosol in situ", "Asmi, A.", "Baltensperger, U.", "Bukowiecki, N.", "Day, D.", "Fiebig, M.", "Fjaeraa, A. M.", "Flentje, H.", "Hyvärinen, A.", "Jefferson, A.", "Jennings, S. G.", "Kouvarakis, G.", "Lihavainen, H.", "Lund Myhre, C.", "Malm, W. C.", "Mihapopoulos, N.", "Molenar, J. V.", "O'Dowd, C.", "Ogren, J. A.", "Schichtel, B. A.", "Sheridan, P.", "Virkkula, A.", "Weingartner, E.", "Weller, R.", "Laj, P."],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/c5cd25c5d90ac9a0f3232c33419be45e1b4a71b7/services/img/mk-trends-coen-et-al.png",
+        "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/mk-trends-coen-et-al.png",
         "access_rights": "Open",
         "class": "Data product"
     },
@@ -415,7 +415,7 @@
         "url_policy": "ftp://ebas-secondary-data.nilu.no/pub/ebas-secondary-data/Asmi_et_al_2013/",
         "description": "By Asmi, A., Collaud Coen, M. et al. (2013)  Atmospheric Chemistry and Physics, DOI:10.5194/acp-13-895-2013.",
         "keywords": ["aerosol in situ", "Ogren, J. A.", "Andrews, E.", "Sheridan, P.", "Jefferson, A.", "Weingartner, E.", "Baltensperger, U.", "Bukowiecki, N.", "Lihavainen, H.", "Kivekäs, N.", "Asmi, E.", "Aalto, P. P.", "Kulmala, M.", "Wiedensohler, A.", "Birmili, W.", "Hamed, A.", "O'Dowd, C.", "Jennings, S. G.", "Weller, R.", "Flentje, H.", "Fjaeraa, A. M.", "Fiebig, M.", "Myhre, C. L.", "Hallar, A. G.", "Swietlicki, E.", "Kristensson, A.", "Laj, P."],   
-        "img_url": "https://github.com/ACTRIS-Data-Centre/dvas-catalog/blob/aa247fc64946239492d4cfa7148d81150430da40/services/img/tropos-trend-asmi-et-al.png",
+        "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/tropos-trend-asmi-et-al.png",
         "access_rights": "Open",
         "class": "Data product"
     },
