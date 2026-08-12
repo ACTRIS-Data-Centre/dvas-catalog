@@ -1,5 +1,3 @@
-# Releases
-
 <!--
 This is the convention for how the headers should be written, add hierarchically with newest on top.
 
@@ -12,6 +10,7 @@ This is the convention for how the headers should be written, add hierarchically
 # Major release v2.0.0
 
 Major changes:
+
 * Search:
     * Full migration of search, facility and statistics routes onto the new [ACTRIS metadata API](https://prod-actris-md.nilu.no/swagger-ui/index.html)
     * Hierarchical, tree-select filters for matrix/variable/instrument/object-of-interest
