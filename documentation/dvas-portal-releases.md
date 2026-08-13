@@ -4,15 +4,28 @@ This is the convention for how the headers should be written, add hierarchically
 # Major release vX.0.0
 # Minor release vX.Y.0
 # Patch release vX.Y.Z
+
+Directly under each header, add a plain italic metadata line (not a code block):
+*Launched YYYY-MM-DD*
+
+Portal releases and metadata API releases aren't intrinsically tied, so don't restate the
+API version on every entry. Only when a release actually adopts a new metadata API version,
+reference it inline in the relevant change bullet, like:
+[Metadata API vN](https://prod-actris-md.nilu.no/vN/api-docs)
+
+Only add a one-off "*Updated YYYY-MM-DD: <what changed>*" line if retroactively editing an
+already-published entry -- this file's own git history is the normal edit trail.
 -->
 
 
 # Major release v2.0.0
 
+*Launched 2026-08-13*
+
 Major changes:
 
 * Search:
-    * Full migration of search, facility and statistics routes onto the new [ACTRIS metadata API](https://prod-actris-md.nilu.no/swagger-ui/index.html)
+    * Full migration of search, facility and statistics routes onto the new [ACTRIS metadata API](https://prod-actris-md.nilu.no/v3/api-docs)
     * Hierarchical, tree-select filters for matrix/variable/instrument/object-of-interest, with a clear selection option for each filter
     * Map markers now sourced from the facilities API, with a labelled ACTRIS National Facility tier for better visibility
     * Checkbox for showcasing and selecting ACTRIS National Facilities - Labelled and Initially Accepted.
