@@ -13,10 +13,10 @@ Major changes:
 
 * Search:
     * Full migration of search, facility and statistics routes onto the new [ACTRIS metadata API](https://prod-actris-md.nilu.no/swagger-ui/index.html)
-    * Hierarchical, tree-select filters for matrix/variable/instrument/object-of-interest
+    * Hierarchical, tree-select filters for matrix/variable/instrument/object-of-interest, with a clear selection option for each filter
     * Map markers now sourced from the facilities API, with a labelled ACTRIS National Facility tier for better visibility
     * Checkbox for showcasing and selecting ACTRIS National Facilities - Labelled and Initially Accepted.
-    * Results table: frozen header row, always-visible horizontal scrollbar, timeliness/product-type highlighting
+    * Results table: frozen header row, always-visible horizontal scrollbar, timeliness/product-type highlighting, clickable facility chips
     * Start-/End-date filter fixes and info tooltip
 * Basket:
     * Clickable facility chips
