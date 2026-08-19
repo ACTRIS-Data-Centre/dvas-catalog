@@ -18,6 +18,19 @@ already-published entry -- this file's own git history is the normal edit trail.
 -->
 
 
+# Patch release v2.0.1
+
+*Launched 2026-08-19*
+
+* Basket: downloads are now more resilient — per-file timeout, concurrent fetching, and automatic recovery from a stale/corrupted basket cookie
+* Search map: faster initial load and no more grey-out while the layout settles, plus clearer loading feedback
+* Releases page: caches the changelog file to avoid GitHub rate-limit errors
+* Privacy: added a placeholder notice for the Matomo opt-out box when it fails to load (e.g. private browsing, ad/tracker blockers)
+* SEO: added meta descriptions, canonical URLs and a sitemap across pages, to improve search-engine discoverability and make pages easier for AI tools to summarize correctly
+* Services page: moved to server-side rendering, with bug fixes
+* Removed the unmaintained `/nrt` page
+* Various server-side error logging and user-facing notification improvements across search, facility, and statistics pages
+
 # Major release v2.0.0
 
 *Launched 2026-08-13*
