@@ -18,6 +18,15 @@ already-published entry -- this file's own git history is the normal edit trail.
 -->
 
 
+# Patch release v2.0.2
+
+*Launched 2026-08-21*
+
+* v2.0.1 failed to deploy to production — a memory issue in the search index caused repeated crashes. This release fixes the underlying cause: the code that keeps search working when the metadata API is temporarily unavailable now runs separately, so it can no longer take the whole portal down with it
+* Basket: fixed "Download all files" not including every file for large baskets, caused by a hidden per-cookie size limit, and added a clearer error page (instead of a raw server error) for the rare case a request is still too large to process
+* Downloads: fixed ARES file names to correctly use the dataset's PID
+* Search: clearer error message when the metadata API is briefly unavailable (503)
+
 # Patch release v2.0.1
 
 *Launched 2026-08-19*
