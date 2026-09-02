@@ -1,6 +1,18 @@
 [
     {
         "id": 1,
+        "title": "ACTRIS metadata catalog REST API",
+        "url": "https://prod-actris-md2.nilu.no/index.html",
+        "url_data": "",
+        "url_policy": "",
+        "description": "Machine-to-machine access to ACTRIS data and products through the REST API. The API is currently undergoing upgrades. You might experience some timeouts.",
+        "keywords": ["ACTRIS", "Metadata", "REST API", "Access", "aerosol in situ", "cloud in situ", "reactive trace gases in situ", "aerosol remote sensing", "cloud remote sensing", "reactive trace gas remote sensing"],   
+        "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/actris-rest-api.png",
+        "access_rights": "Open",
+        "class": "API"
+    },
+    {
+        "id": 2,
         "title": "ACTRIS Vocabulary",
         "url": "https://vocabulary.actris.nilu.no/skosmos/en/",
         "url_data": "",
@@ -12,7 +24,7 @@
         "class": "Service"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "ACTRIS In Situ Near-Realtime data",
         "url": "https://ebas-nrt.nilu.no/",
         "url_data": "",
@@ -22,18 +34,6 @@
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/actris-in-situ-nrt.png",
         "access_rights": "Open",
         "class": "Visualisation tool"
-    },
-    {
-        "id": 3,
-        "title": "ACTRIS metadata catalog REST API",
-        "url": "https://prod-actris-md2.nilu.no/index.html",
-        "url_data": "",
-        "url_policy": "",
-        "description": "Machine-to-machine access to ACTRIS data and products through the REST API. The API is currently undergoing upgrades. You might experience some timeouts.",
-        "keywords": ["ACTRIS", "Metadata", "REST API", "Access", "aerosol in situ", "cloud in situ", "reactive trace gases in situ", "aerosol remote sensing", "cloud remote sensing", "reactive trace gas remote sensing"],   
-        "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/actris-rest-api.png",
-        "access_rights": "Open",
-        "class": "API"
     },
     {
         "id": 4,
