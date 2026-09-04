@@ -18,6 +18,15 @@ already-published entry -- this file's own git history is the normal edit trail.
 -->
 
 
+# Patch release v2.0.3
+
+*Launched 2026-09-04*
+
+* Basket: fixed multi-file dataset downloads — ARES datasets (whose per-file URLs all share the same basename) were collapsing into one file in the zip; EUROCHAMP/ASC datasets (whose per-file URLs are fine, but whose server sends the same misleading Content-Disposition filename for every file) were doing the same in reverse. Each source's filenames are now picked correctly
+* Landing page: multi-file datasets now list every file in a table (name, format, size, access) on the inspect page, instead of only ever showing the first file; file size is also now shown using the unit reported by the metadata API, instead of assuming bytes
+* Search/basket: datasets covering more than one matrix (e.g. air and precipitation) now show all matrices, not just the first
+* Facility pages: fixed a crash when an unknown facility ID returned an empty response instead of a 404
+
 # Patch release v2.0.2
 
 *Launched 2026-08-21*
