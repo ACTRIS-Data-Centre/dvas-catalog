@@ -644,7 +644,7 @@
         "url": "https://aeroval.met.no/pages/evaluation/?project=obs",
         "description": " This web-based dynamic plotting tool lets the user easily explore data, models inteintercomparisons, and regional statistics from several ground-based observation networks (EBAS, EEA, Aeronet, ...) or satellites (MODIS, AATSR, ...). The model data is colocated with the observational data using the pyareocom library.",
         "keywords": ["meteorology", "validation",  "evaluation","aerosol in situ","reactive trace gases in situ", "observations","Data"],   
-        "img_url": ,
+        "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/aeroval_tool.png",
         "access_rights": "Open",
         "class": "Visualisation tool"
     }
