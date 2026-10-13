@@ -1,0 +1,22 @@
+# Structure
+#
+# [Full Name]
+# reason_for_access = ''
+# sendt_credentials_date = '' # ISO 8601: YYYY-MM-DD
+#
+
+# PasteBin format
+# 
+# Statistics user for data.actris.eu/statistics
+# 
+# USERNAME: *username*
+# PASSWORD: *password*
+#
+
+[Anna Franck]
+reason_for_access = ''
+sendt_credentials_date = ''
+
+[Evelyn Freney]
+reason_for_access = 'Requires access statistics for French data for reporting'
+sendt_credentials_date = '2026-10-13'
