@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "ACTRIS metadata catalog REST API",
-        "url": "https://prod-actris-md2.nilu.no/index.html",
+        "url": "https://prod-actris-md.nilu.no/swagger-ui/index.html",
         "url_data": "",
         "url_policy": "",
         "description": "Machine-to-machine access to ACTRIS data and products through the REST API. The API is currently undergoing upgrades. You might experience some timeouts.",
