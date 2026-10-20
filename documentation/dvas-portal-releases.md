@@ -18,6 +18,27 @@ already-published entry -- this file's own git history is the normal edit trail.
 -->
 
 
+# Patch release v2.0.4
+
+*Launched 2026-10-20*
+
+* Search: added an 'Access Restriction' filter
+* Search: advanced fields now work correctly together with "clear filters"
+* Search: filter dropdowns stay open after a selection instead of closing immediately
+* Search: added a fallback "flat" filter list for when the controlled vocabulary fails to load
+* Search: results table now correctly enforces the max random-access result-row limit
+* Inspect page: fixed the metadata table layout on narrow screens, and added a fallback display for unrecognised personnel role codes
+* Metadata download now streams directly from the Metadata API instead of being reconstructed
+* Model Products are now only shown per-station if they actually exist for that station, with a loading spinner while this is checked
+* Added a lock icon for restricted datasets in search results and the basket
+* Fixed the landing page hero image tiling
+* Consolidated and made the basket/result table buttons stateful, so add-to-basket reflects the current state, including on inspect and facility pages
+* Standardised the button colour convention across the site
+* Replaced flash/admonition messages with toast notifications
+* Fixed a version-mismatch and request race condition
+* Fixed a writer race condition
+* Improved caching for faster performance
+
 # Patch release v2.0.3
 
 *Launched 2026-09-04*
