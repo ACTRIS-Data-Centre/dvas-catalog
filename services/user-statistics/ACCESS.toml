@@ -13,6 +13,11 @@
 # PASSWORD: *password*
 #
 
+[Claudia Di Biagio]
+reason_for_access = 'Responsible for the ASC Unit of the ACTRIS DC'
+sendt_credentials_date = '2026-11-09'
+
+
 [Anna Franck]
 reason_for_access = 'ACTRIS Head Office and General Assembly needs statistics of ACTRIS data usage and users per country for reports.'
 sendt_credentials_date = '2026-10-13'
