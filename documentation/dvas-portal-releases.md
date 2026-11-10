@@ -18,6 +18,17 @@ already-published entry -- this file's own git history is the normal edit trail.
 -->
 
 
+# Patch release v2.0.5
+
+*Launched 2026-11-10*
+
+* Search map: upgraded the map library (Leaflet 1.7.1 → 1.9.4) to fix selecting facility markers in Safari and other WebKit browsers
+* Search map: "Show only ACTRIS labelled & initially accepted" now stays on when facilities are selected, so you can search for and select facilities without the map filter switching off
+* Search map: while "Select only ACTRIS labelled & initially accepted" is on, other facilities can no longer be added to the filter from the map. Their popup button is disabled, with a hint on how to re-enable it
+* Search map: fixed other-facility markers sometimes showing black instead of grey after toggling the map filter
+* About page: added the 2025 group image, with a responsive layout on narrow screens, and updated the expert team list and DC board
+* Statistics: added variable and framework filters for CLU statistics (further chnages under work)
+
 # Patch release v2.0.4
 
 *Launched 2026-10-20*
