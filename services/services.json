@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "ACTRIS metadata catalog REST API",
+        "title": "ACTRIS Data Centre metadata API",
         "url": "https://prod-actris-md.nilu.no/swagger-ui/index.html",
         "url_data": "",
         "url_policy": "",
@@ -61,11 +61,11 @@
     },
     {
         "id": 6,
-        "title": "NILU THREDDS Data Server",
+        "title": "ACTRIS DC Unit In-Situ: NILU THREDDS Data Server",
         "url": "https://thredds.nilu.no/thredds/catalog.html",
         "url_data": "",
         "url_policy": "",
-        "description": "The NILU THREDDS Data Server provides catalog, metadata, and data access services for scientific data from the EBAS database and both ACTRIS and EBAS Near Real-Time Data. The server provided several access protocols such as e.g. OPeNDAP (file streaming) and HTTPServer (direct download). Recommended search method for the NILU THREDDS Data Server is using the ACTRIS Metadata REST API.",
+        "description": "The NILU THREDDS Data Server provides catalog, metadata, and data access services for scientific data from the EBAS database and both ACTRIS and EBAS Near Real-Time Data. The server provided several access protocols such as e.g. OPeNDAP (file streaming) and HTTPServer (direct download). Recommended search method for the NILU THREDDS Data Server is using the ACTRIS Data Centre metadata API.",
         "keywords": ["NILU", "EBAS", "THREDDS", "OPeNDAP", "HTTPServer", "Data", "Catalog", "Metadata", "In-situ", "NRT", "Near Real-Time", "aerosol in situ", "cloud in situ", "reactive trace gases in situ"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/thredds.png", 
         "access_rights": "Open",
@@ -349,7 +349,7 @@
     },
     {
         "id": 34,
-        "title": "ACTRIS ARES metadata catalog REST API",
+        "title": "ACTRIS DC Unit ARES: metadata catalog REST API",
         "url": "https://api.actris-ares.eu/api/swagger-ui/",
         "url_data": "",
         "url_policy": "https://www.actris.eu/sites/default/files/inline-files/ACTRIS_ERIC_GA_approved_ACTRIS_data_policy.pdf",
@@ -577,7 +577,7 @@
     },
     {
         "id": 53,
-        "title": "ACTRIS CLU metadata catalog REST API",
+        "title": "ACTRIS DC Unit CLU: metadata catalog REST API",
         "url": "https://docs.cloudnet.fmi.fi/api/data-portal.html",
         "url_data": "",
         "url_policy": "",
