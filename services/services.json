@@ -5,7 +5,7 @@
         "url": "https://prod-actris-md.nilu.no/swagger-ui/index.html",
         "url_data": "",
         "url_policy": "",
-        "description": "Machine-to-machine access to ACTRIS data and products through the REST API. The API is currently undergoing upgrades. You might experience some timeouts.",
+        "description": "Machine-to-machine access to ACTRIS data and products through the REST API. Metadata describes ACTRIS atmospheric datasets through a REST API. Search by criteria such as observed variables, instruments, facilities and time period, retrieve detailed metadata, and obtain links to data in the underlying repositories.",
         "keywords": ["ACTRIS", "Metadata", "REST API", "Access", "aerosol in situ", "cloud in situ", "reactive trace gases in situ", "aerosol remote sensing", "cloud remote sensing", "reactive trace gas remote sensing"],   
         "img_url": "https://raw.githubusercontent.com/ACTRIS-Data-Centre/dvas-catalog/refs/heads/main/services/img/actris-rest-api.png",
         "access_rights": "Open",
