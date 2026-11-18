@@ -18,6 +18,13 @@ already-published entry -- this file's own git history is the normal edit trail.
 -->
 
 
+# Patch release v2.0.6
+
+*Launched 2026-11-18*
+
+* Search and basket: start and end times are now hidden only for ASC Level 3 (fundamental parameter) and Level 2 (experiment result) data. All other product types, such as combined products and model results, show them again
+* Landing page: the OPeNDAP link now opens the browsable `.nc.html` form page instead of the raw `.nc` endpoint
+
 # Patch release v2.0.5
 
 *Launched 2026-11-10*
