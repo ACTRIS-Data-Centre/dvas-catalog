@@ -17,6 +17,11 @@ Only add a one-off "*Updated YYYY-MM-DD: <what changed>*" line if retroactively 
 already-published entry -- this file's own git history is the normal edit trail.
 -->
 
+# Patch release v2.0.8
+
+*Launched 2026-11-25*
+
+* All pages: after a new release, browsers now load the updated styles and scripts straight away instead of reusing cached copies for up to two hours
 
 # Patch release v2.0.7
 
