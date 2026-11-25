@@ -18,6 +18,18 @@ already-published entry -- this file's own git history is the normal edit trail.
 -->
 
 
+# Patch release v2.0.7
+
+*Launched 2026-11-25*
+
+* Search: moved to a new search backend. The initial filter options and the facility markers on the map now come from the same search as the results, so they stay in step
+* Search: filter labels now use the same field names as the rest of the portal, e.g. "Instruments" is now "Instrument type"
+* Search: In-Situ vegetation data is no longer listed, as it is not part of the ACTRIS data offering
+* Search: on narrow or portrait screens the map is now shown above the search filters instead of being squeezed beside them
+* Search results: the product type indicator column has a cleaner header and can no longer be hidden through the column picker
+* Search results: your column selection is now remembered for the browser session, and a new Reset button restores the default columns
+* All pages: the footer now sits at the bottom of the page instead of floating over the content
+
 # Patch release v2.0.6
 
 *Launched 2026-11-18*
